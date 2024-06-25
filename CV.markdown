@@ -39,10 +39,10 @@ Project: Herbivore Niche Differentiation and the Intensification of Competition 
 Project Overview: The DFG-funded project sought to trace the evolution of niche partitioning and competitive interaction across Bovidae (Antelope & their relatives) on the African Savannah from their origins through to the Recent. 
 
 # GRANTS AND AWARDS
-- Research Grant (£20,000 Consumable Grant) | Royal Society London (2021)
-- Visiting Research Scholarship ($3900 Travel Grant) | Chicago Field Museum (2020)  
-- Future Research Leaders Grant (£2509 Travel Grant) | University of Bath (2019)  
-- Evolution Education Trust PhD Studentship (Stipend, Fees & Research Costs) | University of Bath (2019)  
+- Research Grant (£20,000 Consumable Grant) - Royal Society London (2021)
+- Visiting Research Scholarship ($3900 Travel Grant) - Chicago Field Museum (2020)  
+- Future Research Leaders Grant (£2509 Travel Grant) - University of Bath (2019)  
+- Evolution Education Trust PhD Studentship (Stipend, Fees & Research Costs) - University of Bath (2019)  
 
 # CONFERENCE PRESENTATIONS
 - Janis C, Franklin G, Baird CN & Tyler J. The radiation of Miocene Anchitheres: the forgotten large browsing Horses. SVPCA; Online. Poster 2021
