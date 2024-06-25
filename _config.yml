@@ -7,7 +7,7 @@ baseurl: ""
 url: ""
 twitter_username: joshtylerearth
 github_username: JTyler13
-theme: cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 header_pages:
