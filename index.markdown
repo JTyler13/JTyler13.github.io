@@ -4,6 +4,6 @@
 
 layout: home
 ---
-{:refdef: style="text-align: center;"}
-![Diving](/docs/assets/images/4-state.svg){:width="300%"}
-{: refdef}
+![headshot](/docs/assets/images/joshtyler.png)
+
+I am about to start a Postdoc with Dr. Will Pearse at the Turing Institute building a community around Probabilistic Programming.
