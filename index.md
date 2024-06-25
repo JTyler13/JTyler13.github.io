@@ -1,5 +1,6 @@
 ---
 layout: home
+title: About
 ---
 
 ## *Exploring Ecology, Evolution & Biodiversity Through The Lens Of Probabilistic Programming*
