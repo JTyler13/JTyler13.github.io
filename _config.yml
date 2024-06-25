@@ -10,3 +10,7 @@ github_username: JTyler13
 theme: cayman
 plugins:
   - jekyll-feed
+header_pages:
+ - about.md
+ - papers.md
+ - CV.md
