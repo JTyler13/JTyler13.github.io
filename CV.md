@@ -5,49 +5,36 @@ permalink: /cv/
 ---
 
 # EDUCATION
-**PhD in Biology, Milner Centre for Evolution, University of Bath, UK 2019 – 2023**
-
+**PhD in Biology, Milner Centre for Evolution, University of Bath, UK**
+*2019 – 2023*
 - Thesis: Phylogenetic Diversity, Morphological Disparity & Niche Adaptation in Seabirds
 - Supervisors: Professor Matt Wills & Dr Nick Priest (Milner Centre for Evolution, University of Bath) and Dr Jane Younger (University of Tasmania)
 - Key Techniques: Advanced Analysis in R, Linear & Geometric Morphometrics, Phylogenetic Comparative Methods, Discrete Character Evolution, Species Delimitation Techniques.
 
-**Master of Earth Sciences, Exeter College, University of Oxford, UK 2011 – 2015**
-
+**Master of Earth Sciences, Exeter College, University of Oxford, UK**
+*2011 – 2015*
 - Degree & Classification: MEarthSci – 2.i
-
 - Masters Thesis: “The battle for the Mesozoic skies: Studying competition as a driver of macroevolution in pterosaurs” (Supervisor: Prof R Benson, First Class)
-
 - Fieldwork Locations: Pembrokeshire, Arran, Dorset, Assynt, Corsica, Almeria/Carboneras (SE Spain), Bermuda.
 
 ***
 
 # RESEARCH APPOINTMENTS
 **Senior Consultant, Strategic Analytics, AtkinsRèalis, Bristol**
-
 *March 2023 - September 2024*
-
 - Focus on developing and delivering innovative and novel data-driven solutions to client problems.
-
 - Capability lead for Data-Driven Decision-Making and creating analytical resources in R. 
-
 - Currently the Simulation Workstream lead within the Airport Security Team. 
 
 **Simulation Modelling Specialist: Modelling & Analytics, NHS, Bristol** 
-
 *January 2019 - September 2019 & November 2020 – June 2021*
-
 - Project: Developing a versatile tool for modelling pathway capacity in NHS organisations
-
 - Project Overview: The Health Foundation-funded project involved building an analytical tool and UI in R that could model several interconnected health services along a given patient pathway using techniques from queueing theory and operational research. 
-
 - Tool Link: [https://github.com/nhs-bnssg-analytics/PathSimR](https://github.com/nhs-bnssg-analytics/PathSimR)
 
 **Research Assistant: Museum fur Naturkunde, Berlin** 
-
 *August 2016 - December 2018*
-
 - Project: Herbivore Niche Differentiation and the Intensification of Competition in African Savannahs
-
 - Project Overview: The DFG-funded project sought to trace the evolution of niche partitioning and competitive interaction across Bovidae (Antelope & their relatives) on the African Savannah from their origins through to the Recent. 
 
 ***
