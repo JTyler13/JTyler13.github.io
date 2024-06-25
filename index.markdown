@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![Diving](/docs/assets/images/Diving.png)
+![Diving](/docs/assets/images/4-state.svg)
