@@ -7,6 +7,6 @@ baseurl: ""
 url: ""
 twitter_username: joshtylerearth
 github_username: JTyler13
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
