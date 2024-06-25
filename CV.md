@@ -48,11 +48,11 @@ permalink: /cv/
 ***
 
 # CONFERENCE PRESENTATIONS
-- Janis C, Franklin G, Baird CN & Tyler J. The radiation of Miocene Anchitheres: the forgotten large browsing Horses. SVPCA; Online. Poster 2021
-- Tyler J & Younger J. Morphometric and genetic evidence for four species of gentoo penguin. Evolution; Online. Talk, 2021
-- Tyler J & Younger J. Hidden biodiversity in gentoo penguins. Biology & Biochemistry Research Symposium; University of Bath. Poster, 2020
-- Tyler J & Bibi F. Investigating niche evolution using skull morphology in modern antelope (Bovidae) communities. Evolution; Montpellier, France. Poster, 2018
-- Tyler J & Bibi F. Investigating the role of competition and biotic interaction on the evolution of African bovids: A geometric morphometric & phylogenetic approach. IPC; Paris, France. Talk, 2018
+- Janis C, Franklin G, Baird CN & **Tyler J**. The radiation of Miocene Anchitheres: the forgotten large browsing Horses. SVPCA; Online. Poster 2021
+- **Tyler J** & Younger J. Morphometric and genetic evidence for four species of gentoo penguin. Evolution; Online. Talk, 2021
+- **Tyler J** & Younger J. Hidden biodiversity in gentoo penguins. Biology & Biochemistry Research Symposium; University of Bath. Poster, 2020
+- **Tyler J** & Bibi F. Investigating niche evolution using skull morphology in modern antelope (Bovidae) communities. Evolution; Montpellier, France. Poster, 2018
+- **Tyler J** & Bibi F. Investigating the role of competition and biotic interaction on the evolution of African bovids: A geometric morphometric & phylogenetic approach. IPC; Paris, France. Talk, 2018
 
 ***
 
