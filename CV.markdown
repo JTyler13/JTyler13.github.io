@@ -4,9 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-# PERSONAL STATEMENT
-Early Career Researcher with a strong focus on statistical approaches to macroevolution and biodiversity. Expert in phylogenetic comparative methods, morphometric data collection & analysis and modelling in R. Experience in supervising both undergraduate and graduate research projects on topics from across evolutionary biology. Successful acquisition of national and international funding and awards. Publication output from all research appointments including interdisciplinary collaborations with the NHS.  
-
 # EDUCATION
 **PhD in Biology, Milner Centre for Evolution, University of Bath, UK 2019 – 2023**
 
