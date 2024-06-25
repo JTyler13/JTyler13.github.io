@@ -8,28 +8,28 @@ permalink: /cv/
 Early Career Researcher with a strong focus on statistical approaches to macroevolution and biodiversity. Expert in phylogenetic comparative methods, morphometric data collection & analysis and modelling in R. Experience in supervising both undergraduate and graduate research projects on topics from across evolutionary biology. Successful acquisition of national and international funding and awards. Publication output from all research appointments including interdisciplinary collaborations with the NHS.  
 
 # EDUCATION
-## PhD in Biology, Milner Centre for Evolution, University of Bath, UK 2019 – 2023
+**PhD in Biology, Milner Centre for Evolution, University of Bath, UK 2019 – 2023**
 Thesis: “Phylogenetic Diversity, Morphological Disparity & Niche Adaptation in Seabirds”
 Supervisors: Professor Matt Wills & Dr Nick Priest (Milner Centre for Evolution, University of Bath) and Dr Jane Younger (University of Tasmania)
 Key Techniques: Advanced Analysis in R, Linear & Geometric Morphometrics, Phylogenetic Comparative Methods, Discrete Character Evolution, Species Delimitation Techniques.
 
-## Master of Earth Sciences, Exeter College, University of Oxford, UK 2011 – 2015
+**Master of Earth Sciences, Exeter College, University of Oxford, UK 2011 – 2015**
 Degree & Classification: MEarthSci – 2.i
 Masters Thesis: “The battle for the Mesozoic skies: Studying competition as a driver of macroevolution in pterosaurs” (Supervisor: Prof R Benson, First Class)
 Fieldwork Locations: Pembrokeshire, Arran, Dorset, Assynt, Corsica, Almeria/Carboneras (SE Spain), Bermuda.
 
 # RESEARCH APPOINTMENTS
-## Senior Consultant, Strategic Analytics, AtkinsRèalis, Bristol. March 2023 - Present
+**Senior Consultant, Strategic Analytics, AtkinsRèalis, Bristol. March 2023 - Present**
 Focus on developing and delivering innovative and novel data-driven solutions to client problems.
 Capability lead for Data-Driven Decision-Making and creating analytical resources in R. 
 Currently the Simulation Workstream lead within the Airport Security Team. 
 
-## Simulation Modelling Specialist: Modelling & Analytics, NHS, Bristol. January 2019 - September 2019 & November 2020 – June 2021
+**Simulation Modelling Specialist: Modelling & Analytics, NHS, Bristol. January 2019 - September 2019 & November 2020 – June 2021**
 Project: Developing a versatile tool for modelling pathway capacity in NHS organisations
 Project Overview: The Health Foundation-funded project involved building an analytical tool and UI in R that could model several interconnected health services along a given patient pathway using techniques from queueing theory and operational research. 
 Tool Link: https://github.com/nhs-bnssg-analytics/PathSimR 
 
-## Research Assistant: Museum fur Naturkunde, Berlin. August 2016 - December 2018
+**Research Assistant: Museum fur Naturkunde, Berlin. August 2016 - December 2018**
 Project: Herbivore Niche Differentiation and the Intensification of Competition in African Savannahs
 Project Overview: The DFG-funded project sought to trace the evolution of niche partitioning and competitive interaction across Bovidae (Antelope & their relatives) on the African Savannah from their origins through to the Recent. 
 
@@ -56,14 +56,14 @@ Hidden biodiversity in gentoos – Naked Scientists Podcast Interview, Ecology &
 Albatross Bill Shape – Conversation Article
 
 # STUDENT SUPERVISION
-## BA Biology Project Co-Supervisor (PI: Dr. Jane Younger). University of Bath, Bath, UK. 
+**BA Biology Project Co-Supervisor (PI: Dr. Jane Younger). University of Bath, Bath, UK.**
 - Morphological Variation in Spheniscidae Skeletal Elements. Students: Jack Hardy (21/22), Sam Jones (21/22), Harley Mitchell (21/22)
 - Phylogeography & Cryptic Species in Malagasy Birds. Students: Georgina Russell (19/20), Louis Martin (20/21), Nefeli Karonis (20/21)
 
-## MSc Bioinformatics Project Co-Supervisor (PI: Dr. Nick Priest). University of Bath, Bath, UK. 
+**MSc Bioinformatics Project Co-Supervisor (PI: Dr. Nick Priest). University of Bath, Bath, UK.**
 - Understanding Global Patterns of Biodiversity and Diversification in Fungi. Students: Gabriel Crabb (21/22), Enea Jorgji (21/22)
 
-## MSci Palaeobiology Thesis Co-Supervisor (PI: Prof Christine Janis). University of Bristol, Bristol, UK.	
+**MSci Palaeobiology Thesis Co-Supervisor (PI: Prof Christine Janis). University of Bristol, Bristol, UK.**
 - Locomotor evolution in horses: divergence between anchitheres and equines. Student: Gwen Franklin (20/21)
 
 # ENGAGEMENT ACTIVITIES & WIDENING PARTICIPATION
