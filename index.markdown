@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![Diving](/docs/assets/images/Diving.png)
