@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:
-email: 
+title: Dr Josh Tyler
+email: Joshua.Tyler1993<at>gmail<dot>com
 description: >- # this means to ignore newlines until "baseurl:"
   Postdoc at the Turing Institute working on Probabilistic Programming and its
   applications in Evolution, Biodiversity & Health.
