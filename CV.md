@@ -18,19 +18,22 @@ Masters Thesis: “The battle for the Mesozoic skies: Studying competition as a 
 Fieldwork Locations: Pembrokeshire, Arran, Dorset, Assynt, Corsica, Almeria/Carboneras (SE Spain), Bermuda.
 
 # RESEARCH APPOINTMENTS
-**Senior Consultant, Strategic Analytics, AtkinsRèalis, Bristol. March 2023 - September 2024**
+**Senior Consultant, Strategic Analytics, AtkinsRèalis, Bristol**
+*March 2023 - September 2024*
 
 Focus on developing and delivering innovative and novel data-driven solutions to client problems.
 Capability lead for Data-Driven Decision-Making and creating analytical resources in R. 
 Currently the Simulation Workstream lead within the Airport Security Team. 
 
-**Simulation Modelling Specialist: Modelling & Analytics, NHS, Bristol. January 2019 - September 2019 & November 2020 – June 2021**
+**Simulation Modelling Specialist: Modelling & Analytics, NHS, Bristol** 
+*January 2019 - September 2019 & November 2020 – June 2021*
 
 Project: Developing a versatile tool for modelling pathway capacity in NHS organisations
 Project Overview: The Health Foundation-funded project involved building an analytical tool and UI in R that could model several interconnected health services along a given patient pathway using techniques from queueing theory and operational research. 
 Tool Link: https://github.com/nhs-bnssg-analytics/PathSimR 
 
-**Research Assistant: Museum fur Naturkunde, Berlin. August 2016 - December 2018**
+**Research Assistant: Museum fur Naturkunde, Berlin** 
+*August 2016 - December 2018*
 
 Project: Herbivore Niche Differentiation and the Intensification of Competition in African Savannahs
 Project Overview: The DFG-funded project sought to trace the evolution of niche partitioning and competitive interaction across Bovidae (Antelope & their relatives) on the African Savannah from their origins through to the Recent. 
