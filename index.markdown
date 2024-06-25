@@ -4,11 +4,6 @@
 
 layout: home
 ---
-#
-#
-#
-#
-
 {:refdef: style="text-align: center;"}
-![Diving](/docs/assets/images/4-state.svg){:width="150%"}
+![Diving](/docs/assets/images/4-state.svg){:width="300%"}
 {: refdef}
