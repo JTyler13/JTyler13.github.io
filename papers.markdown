@@ -5,22 +5,22 @@ permalink: /papers/
 ---
 # Evolution and Ecology
 
-Tyler, J., Hocking, D. & Younger, J. Intrinsic & extrinsic drivers of shape variation in the Albatross compound bill. R. Soc. open sci. 2023 10: 230751. https://doi.org/10.1098/rsos.230751 [Link](https://doi.org/10.1098/rsos.230751)
+1. Tyler, J., Hocking, D. & Younger, J. Intrinsic & extrinsic drivers of shape variation in the Albatross compound bill. R. Soc. open sci. 2023 10: 230751. [https://doi.org/10.1098/rsos.230751](https://doi.org/10.1098/rsos.230751)
 
-Tyler, J. & Younger, J. How we found three new species of penguins. Front. Young Minds - Biodiversity. https://doi.org/10.3389/frym.2023.1044850 
+2. Tyler, J. & Younger, J. How we found three new species of penguins. Front. Young Minds - Biodiversity. [https://doi.org/10.3389/frym.2023.1044850](https://doi.org/10.3389/frym.2023.1044850) 
 
-Janis, C.M., Franklin, E., Baird, C.N., Tyler, J. (2023). The Miocene Browsing Horses: Another Way to Be a Successful Large Equid. In: Prins, H.H.T., Gordon, I.J. (eds) The Equids. Fascinating Life Sciences. Springer, Cham. https://doi.org/10.1007/978-3-031-27144-1_3
+3. Janis, C.M., Franklin, E., Baird, C.N., Tyler, J. (2023). The Miocene Browsing Horses: Another Way to Be a Successful Large Equid. In: Prins, H.H.T., Gordon, I.J. (eds) The Equids. Fascinating Life Sciences. Springer, Cham. [https://doi.org/10.1007/978-3-031-27144-1_3](https://doi.org/10.1007/978-3-031-27144-1_3)
 
-Tyler, J. & Younger, J. Diving into a dead-end: Asymmetric evolution of diving drives diversity and disparity shifts in Waterbirds. Proc. R. Soc. 2022; B289: 20222056. https://doi.org/10.1098/rspb.2022.2056. 
+4. Tyler, J. & Younger, J. Diving into a dead-end: Asymmetric evolution of diving drives diversity and disparity shifts in Waterbirds. Proc. R. Soc. 2022; B289: 20222056. [https://doi.org/10.1098/rspb.2022.2056](https://doi.org/10.1098/rspb.2022.2056)
 
-Bibi, F, & Tyler, J. Evolution of the bovid cranium: Morphological diversification under allometric constraint. Commun Biol. 2022; 5: 69. https://doi.org/10.1038/s42003-021-02877-6 
+5. Bibi, F, & Tyler, J. Evolution of the bovid cranium: Morphological diversification under allometric constraint. Commun Biol. 2022; 5: 69. [https://doi.org/10.1038/s42003-021-02877-6](https://doi.org/10.1038/s42003-021-02877-6) 
 
-Tyler, J, Bonfitto, MT, Clucas, GV, Reddy, S, Younger, JL Morphometric and genetic evidence for four species of gentoo penguin. Ecol Evol. 2020; 10: 13836– 13846. https://doi.org/10.1002/ece3.6973. Altmetric Summary: https://bit.ly/3aLmUpJ 
+6. Tyler, J, Bonfitto, MT, Clucas, GV, Reddy, S, Younger, JL Morphometric and genetic evidence for four species of gentoo penguin. Ecol Evol. 2020; 10: 13836– 13846. https://doi.org/10.1002/ece3.6973. Altmetric Summary: [https://bit.ly/3aLmUpJ](https://bit.ly/3aLmUpJ)
 
 # Healthcare Modelling
 
-Tyler J, Murch BJ, Vasilakis C & Wood RM. Improving uptake of simulation in healthcare: User-driven development of an open-source tool for modelling patient flow. Journal of Simulation. 2022; 17:1-18 https://doi.org/10.1080/17477778.2022.2081521 
+7. Tyler J, Murch BJ, Vasilakis C & Wood RM. Improving uptake of simulation in healthcare: User-driven development of an open-source tool for modelling patient flow. Journal of Simulation. 2022; 17:1-18 [https://doi.org/10.1080/17477778.2022.2081521](https://doi.org/10.1080/17477778.2022.2081521)
 
-Tyler, J, Pratt, AC, Wooster, J, Vasilakis, C, Wood, RM. The impact of increased outpatient telehealth during COVID‐19: Retrospective analysis of patient survey and routine activity data from a major healthcare system in England. Int J Health Plann Mgmt. 2021; 36: 1338-1345. https://doi.org/10.1002/hpm.3185
+8. Tyler, J, Pratt, AC, Wooster, J, Vasilakis, C, Wood, RM. The impact of increased outpatient telehealth during COVID‐19: Retrospective analysis of patient survey and routine activity data from a major healthcare system in England. Int J Health Plann Mgmt. 2021; 36: 1338-1345. [https://doi.org/10.1002/hpm.3185](https://doi.org/10.1002/hpm.3185)
 
-Wood, RM, Murch, BJ, Moss, SJ, Tyler, J, Thompson, AL, Vasilakis, C. Operational research for the safe and effective design of COVID-19 mass vaccination centres. Vaccine. 2021. 39:27: 3537-3540 https://doi.org/10.1016/j.vaccine.2021.05.024 
+9. Wood, RM, Murch, BJ, Moss, SJ, Tyler, J, Thompson, AL, Vasilakis, C. Operational research for the safe and effective design of COVID-19 mass vaccination centres. Vaccine. 2021. 39:27: 3537-3540 [https://doi.org/10.1016/j.vaccine.2021.05.024 ](https://doi.org/10.1016/j.vaccine.2021.05.024)
