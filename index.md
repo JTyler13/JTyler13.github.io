@@ -1,6 +1,6 @@
 ---
 layout: home
-title: *Exploring Ecology, Evolution & Biodiversity Through The Lens Of Probabilistic Programming* 
+title: Exploring Ecology, Evolution & Biodiversity Through The Lens Of Probabilistic Programming 
 ---
 
 
