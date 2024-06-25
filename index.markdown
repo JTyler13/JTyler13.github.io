@@ -4,5 +4,11 @@
 
 layout: home
 ---
+#
+#
+#
+#
 
+{:refdef: style="text-align: center;"}
 ![Diving](/docs/assets/images/4-state.svg)
+{: refdef}
