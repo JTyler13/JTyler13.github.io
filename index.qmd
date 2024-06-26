@@ -10,6 +10,6 @@ title: ""
 
 <br />
 
-![](/docs/assets/images/4-state.svg)
+![](images/4-state.svg)
 
 <br />
