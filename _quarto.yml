@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr Josh Tyler"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - papers.qmd
+      - CV.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

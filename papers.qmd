@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Publications
-permalink: /publications/
+title: "Publications"
 ---
+
 # Evolution and Ecology
 
 1. **Tyler, J.**, Hocking, D. & Younger, J. Intrinsic & extrinsic drivers of shape variation in the Albatross compound bill. R. Soc. open sci. 2023 10: 230751. [https://doi.org/10.1098/rsos.230751](https://doi.org/10.1098/rsos.230751)
