@@ -1,5 +1,6 @@
 ---
 title: "CV"
+toc: true
 ---
 
 # Education

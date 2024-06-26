@@ -25,6 +25,6 @@ format:
     theme:
       light: yeti
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
