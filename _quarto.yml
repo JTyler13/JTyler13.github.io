@@ -13,6 +13,7 @@ website:
         text: Home
       - papers.qmd
       - CV.qmd
+      - blog.qmd
   page-footer:
     border: true
     left: Copyright 2024 - Josh Tyler

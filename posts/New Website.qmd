@@ -1,0 +1,11 @@
+---
+title: "New Academic Website"
+description: "Success with Quarto!"
+date: "6/26/2024"
+categories:
+  - news
+---
+
+I have successfully created a new academic website! To celebrate, here is a picture of the website mascot, Hubble:
+
+![](/images/hubble1.jpg){fig-align="center"}
