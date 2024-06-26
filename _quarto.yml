@@ -5,16 +5,15 @@ project:
 website:
   title: "Dr Josh Tyler"
   navbar:
-    centre:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
       - papers.qmd
       - CV.qmd
   page-footer:
-    center: 
+    left: 
       - text: "About"
-        href: about.qmd
 
 format:
   html:
