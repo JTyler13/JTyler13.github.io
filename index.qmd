@@ -1,16 +1,23 @@
 ---
-title: "" 
-toc: false
+title: "Dr Josh Tyler" # if using a built-in template, this title appears under your photo
+image: images/joshtyler.png # a great spot for your professional headshot :) 
+toc: false # disable table of contents for this page
+about: 
+  template: trestles 
+  image-shape: round
+  image-width: 20em
+  links: # create buttons
+    - icon: github
+      text: GitHub
+      href: https://github.com/jtyler13
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/JoshTylerEarth
+    - icon: envelope
+      text: Email
+      href: mailto:joshua.tyler1993@gmail.com
 ---
 
-<h2 style="text-align: center; color:#000033;">
+#### I am an Evolutionary Biologist with a focus on macroevolution and modelling. I am particularly interested in understanding the levels to which evolution and ecology are predictable and how we can use advances in simulation and statistics to model past and future biodiversity.
 
-<i>Exploring Ecology, Evolution & Biodiversity Through The Lens Of Probabilistic Programming</i>
-
-</h2>
-
-<br />
-
-![](images/4-state.svg)
-
-<br />
+#### In September 2024, I will start a Postdoc with Dr. Will Pearse at the Turing Institute building a community around Probabilistic Programming.

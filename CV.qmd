@@ -4,41 +4,53 @@ title: "CV"
 
 # Education
 
-**PhD in Biology, Milner Centre for Evolution, University of Bath, UK** *2019 – 2023* 
-- Thesis: Phylogenetic Diversity, Morphological Disparity & Niche Adaptation in Seabirds 
-- Supervisors: Professor Matt Wills & Dr Nick Priest (Milner Centre for Evolution, University of Bath) and Dr Jane Younger (University of Tasmania) 
-- Key Techniques: Advanced Analysis in R, Linear & Geometric Morphometrics, Phylogenetic Comparative Methods, Discrete Character Evolution, Species Delimitation Techniques.
+**PhD in Biology, Milner Centre for Evolution, University of Bath, UK** *2019 – 2023*
 
-**Master of Earth Sciences, Exeter College, University of Oxford, UK** *2011 – 2015* 
-- Degree & Classification: MEarthSci – 2.i 
-- Masters Thesis: “The battle for the Mesozoic skies: Studying competition as a driver of macroevolution in pterosaurs” (Supervisor: Prof R Benson, First Class) 
-- Fieldwork Locations: Pembrokeshire, Arran, Dorset, Assynt, Corsica, Almeria/Carboneras (SE Spain), Bermuda.
+-   Thesis: Phylogenetic Diversity, Morphological Disparity & Niche Adaptation in Seabirds
+
+-   Supervisors: Professor Matt Wills & Dr Nick Priest (Milner Centre for Evolution, University of Bath) and Dr Jane Younger (University of Tasmania)
+
+-   Key Techniques: Advanced Analysis in R, Linear & Geometric Morphometrics, Phylogenetic Comparative Methods, Discrete Character Evolution, Species Delimitation Techniques.
+
+**Master of Earth Sciences, Exeter College, University of Oxford, UK** *2011 – 2015*
+
+-   Degree & Classification: MEarthSci – 2.i
+
+-   Masters Thesis: “The battle for the Mesozoic skies: Studying competition as a driver of macroevolution in pterosaurs” (Supervisor: Prof R Benson, First Class)
+
+-   Fieldwork Locations: Pembrokeshire, Arran, Dorset, Assynt, Corsica, Almeria/Carboneras (SE Spain), Bermuda.
 
 ------------------------------------------------------------------------
 
 # Research Appointments
 
-**Senior Consultant, Strategic Analytics, AtkinsRèalis, Bristol** *March 2023 - September 2024* 
-- Focus on developing and delivering innovative and novel data-driven solutions to client problems. 
-- Capability lead for Data-Driven Decision-Making and creating analytical resources in R. 
-- Simulation Workstream lead within the Airport Security Team.
+**Senior Consultant, Strategic Analytics, AtkinsRèalis, Bristol** *March 2023 - September 2024*
 
-**Simulation Modelling Specialist: Modelling & Analytics, NHS, Bristol** *January 2019 - September 2019 & November 2020 – June 2021* 
-- Project: Developing a versatile tool for modelling pathway capacity in NHS organisations 
-- Project Overview: The Health Foundation-funded project involved building an analytical tool and UI in R that could model several interconnected health services along a given patient pathway using techniques from queueing theory and operational research. 
-- Tool Link: <https://github.com/nhs-bnssg-analytics/PathSimR>
+-   Focus on developing and delivering innovative and novel data-driven solutions to client problems.
 
-**Research Assistant: Museum fur Naturkunde, Berlin** *August 2016 - December 2018* 
-- Project: Herbivore Niche Differentiation and the Intensification of Competition in African Savannahs 
-- Project Overview: The DFG-funded project sought to trace the evolution of niche partitioning and competitive interaction across Bovidae (Antelope & their relatives) on the African Savannah from their origins through to the Recent.
+-   Capability lead for Data-Driven Decision-Making and creating analytical resources in R.
+
+**Simulation Modelling Specialist: Modelling & Analytics, NHS, Bristol** *January 2019 - September 2019 & November 2020 – June 2021*
+
+-   Project: Developing a versatile tool for modelling pathway capacity in NHS organisations
+
+-   Project Overview: The Health Foundation-funded project involved building an analytical tool and UI in R that could model several interconnected health services along a given patient pathway using techniques from queueing theory and operational research.
+
+-   Tool Link: <https://github.com/nhs-bnssg-analytics/PathSimR>
+
+**Research Assistant: Museum fur Naturkunde, Berlin** *August 2016 - December 2018*
+
+-   Project: Herbivore Niche Differentiation and the Intensification of Competition in African Savannahs
+
+-   Project Overview: The DFG-funded project sought to trace the evolution of niche partitioning and competitive interaction across Bovidae (Antelope & their relatives) on the African Savannah from their origins through to the Recent.
 
 ------------------------------------------------------------------------
 
 # Grants & Awards
 
 -   Research Grant (£20,000 Consumable Grant) - Royal Society London (2021)
--   Visiting Research Scholarship (\$3900 Travel Grant) - Chicago Field Museum (2020)\
--   Future Research Leaders Grant (£2509 Travel Grant) - University of Bath (2019)\
+-   Visiting Research Scholarship (\$3900 Travel Grant) - Chicago Field Museum (2020)
+-   Future Research Leaders Grant (£2509 Travel Grant) - University of Bath (2019)
 -   Evolution Education Trust PhD Studentship (Stipend, Fees & Research Costs) - University of Bath (2019)
 
 ------------------------------------------------------------------------
@@ -55,26 +67,42 @@ title: "CV"
 
 # Invited Seminars
 
--   Institute for Marine & Antarctic Studies, University of Tasmania – August 2022 - Diversity, Disparity & Dead-Ends? Macroevolutionary patterns in Waterbirds.
--   Bristol Naturalists’ Society – March 2021 - Spot the difference! Understanding morphological variation in birds and the implications for cryptic species.
--   Milner Centre for Evolution – March 2021 – Hidden biodiversity in Gentoo penguins and other avian morphometric mysteries.
+-   Institute for Marine & Antarctic Studies, University of Tasmania – *August 2022* - Diversity, Disparity & Dead-Ends? Macroevolutionary patterns in Waterbirds.
+-   Bristol Naturalists’ Society – *March 2021* - Spot the difference! Understanding morphological variation in birds and the implications for cryptic species.
+-   Milner Centre for Evolution – *March 2021* – Hidden biodiversity in Gentoo penguins and other avian morphometric mysteries.
 
 ------------------------------------------------------------------------
 
 # Media Coverage
 
--   Hidden biodiversity in gentoos – Naked Scientists Podcast Interview, Ecology & Evolution Blog, BBC News, Conversation Article. Estimated reach: 531 million.
--   Albatross Bill Shape – Conversation Article
+-   Hidden biodiversity in gentoos – [Naked Scientists Podcast Interview](https://www.thenakedscientists.com/articles/interviews/gentoo-penguins-three-hidden-species-discovered), [Ecology & Evolution Blog](https://ecologyandevolutionblog.wordpress.com/2020/11/06/hidden-biodiversity-in-gentoo-penguins/), [BBC News](https://www.bbc.co.uk/news/science-environment-54817124#:~:text=Scientists%20are%20calling%20for%20a,told%20apart%20by%20their%20DNA.), [Conversation Article](https://theconversation.com/how-we-discovered-three-new-species-of-penguin-in-the-southern-ocean-149325). Estimated reach: 531 million.
+-   Albatross Bill Shape – [Conversation Article](https://theconversation.com/thick-ones-pointy-ones-how-albatross-beaks-evolved-to-match-their-prey-211461)
 
 ------------------------------------------------------------------------
 
 # Student Supervision
 
-**BA Biology Project Co-Supervisor (PI: Dr. Jane Younger). University of Bath, Bath, UK.** - Morphological Variation in Spheniscidae Skeletal Elements. Students: Jack Hardy (21/22), Sam Jones (21/22), Harley Mitchell (21/22) - Phylogeography & Cryptic Species in Malagasy Birds. Students: Georgina Russell (19/20), Louis Martin (20/21), Nefeli Karonis (20/21)
+**BA Biology Project Co-Supervisor (PI: Dr. Jane Younger). University of Bath, Bath, UK.**
 
-**MSc Bioinformatics Project Co-Supervisor (PI: Dr. Nick Priest). University of Bath, Bath, UK.** - Understanding Global Patterns of Biodiversity and Diversification in Fungi. Students: Gabriel Crabb (21/22), Enea Jorgji (21/22)
+*Morphological Variation in Spheniscidae Skeletal Elements*
 
-**MSci Palaeobiology Thesis Co-Supervisor (PI: Prof Christine Janis). University of Bristol, Bristol, UK.** - Locomotor evolution in horses: divergence between anchitheres and equines. Student: Gwen Franklin (20/21)
+Students: Jack Hardy (21/22), Sam Jones (21/22), Harley Mitchell (21/22)
+
+*Phylogeography & Cryptic Species in Malagasy Birds*
+
+Students: Georgina Russell (19/20), Louis Martin (20/21), Nefeli Karonis (20/21)
+
+**MSc Bioinformatics Project Co-Supervisor (PI: Dr. Nick Priest). University of Bath, Bath, UK.**
+
+*Understanding Global Patterns of Biodiversity and Diversification in Fungi*
+
+Students: Gabriel Crabb (21/22), Enea Jorgji (21/22)
+
+**MSci Palaeobiology Thesis Co-Supervisor (PI: Prof Christine Janis). University of Bristol, Bristol, UK.**
+
+*Locomotor evolution in horses: divergence between anchitheres and equines*
+
+Students: Gwen Franklin (20/21)
 
 ------------------------------------------------------------------------
 
@@ -82,7 +110,7 @@ title: "CV"
 
 -   Evolution Conference Undergraduate Mentor. Online. 2021
 -   Global Science Show & Futures 2020. Online. 2020
--   Morphometrics & Macroevolution Journal Club. University of Bath, Bath, UK. 2019-
+-   Morphometrics & Macroevolution Journal Club. University of Bath, Bath, UK. 2019-2023
 -   Gold Scholarship Programme Mentor. University of Bath, Bath, UK. 2019-2022
 
 ------------------------------------------------------------------------

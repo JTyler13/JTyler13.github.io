@@ -5,24 +5,15 @@ project:
 website:
   title: "Dr Josh Tyler"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
       - papers.qmd
       - CV.qmd
   page-footer:
     border: true
-    left: "Postdoc at the Turing Institute working on Probabilistic
-  Programming and its applications in Evolution, Biodiversity & Health."
     center:
-      - icon: twitter
-        href: https://twitter.com/JoshTylerEarth
-        aria-label: Twitter
-      - icon: github
-        href: https://github.com/jtyler13
-        aria-label: GitHub
-
+      - text: "Postdoc at the Turing Institute working on Probabilistic Programming and its applications in Evolution, Biodiversity & Health."
 
 format:
   html:
