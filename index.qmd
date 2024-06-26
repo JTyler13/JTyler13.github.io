@@ -5,7 +5,7 @@ toc: false # disable table of contents for this page
 about: 
   template: trestles 
   image-shape: round
-  image-width: 30em
+  image-width: 20em
   links: # create buttons
     - icon: github
       text: GitHub
