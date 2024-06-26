@@ -5,12 +5,16 @@ project:
 website:
   title: "Dr Josh Tyler"
   navbar:
-    left:
+    centre:
       - href: index.qmd
         text: Home
       - about.qmd
       - papers.qmd
       - CV.qmd
+  page-footer:
+    center: 
+      - text: "About"
+        href: about.qmd
 
 format:
   html:
@@ -19,8 +23,3 @@ format:
     toc: true
 
 editor: visual
-
-page-footer: | 
-  This page brought to you by <https://example.com>
-
-
