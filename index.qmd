@@ -2,10 +2,11 @@
 title: "Dr Josh Tyler" # if using a built-in template, this title appears under your photo
 image: images/joshtyler.png # a great spot for your professional headshot :) 
 toc: false # disable table of contents for this page
+page-layout: full
 about: 
   template: trestles 
   image-shape: round
-  image-width: 20em
+  image-width: 25em
   links: # create buttons
     - icon: github
       text: GitHub

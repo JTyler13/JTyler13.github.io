@@ -15,13 +15,13 @@ website:
       - CV.qmd
   page-footer:
     border: true
-    left: Copyright 2024, Josh Tyler
+    left: Copyright 2024 - Josh Tyler
     right:
       - text: "Probabilistic Programming and its applications in Evolution, Biodiversity & Health"
 
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
     toc: true
 
