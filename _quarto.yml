@@ -12,10 +12,10 @@ website:
       - papers.qmd
       - CV.qmd
   page-footer:
-    center: 
+    left: 
       - text: "Postdoc at the Turing Institute working on Probabilistic
   Programming and its applications in Evolution, Biodiversity & Health."
-    border: true
+    border: false
 
 format:
   html:
