@@ -6,7 +6,7 @@ page-layout: full
 about: 
   template: trestles 
   image-shape: round
-  image-width: 25em
+  image-width: 20em
   links: # create buttons
     - icon: github
       text: GitHub
