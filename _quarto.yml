@@ -20,5 +20,7 @@ format:
 
 editor: visual
 
-body-footer: "This page brought to you by Turing"
+page-footer: | 
+  This page brought to you by <https://example.com>
+
 
