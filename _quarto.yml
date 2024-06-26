@@ -21,7 +21,8 @@ website:
 
 format:
   html:
-    theme: yeti
+    theme:
+      light: yeti
     css: styles.css
     toc: true
 
