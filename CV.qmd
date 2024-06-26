@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-# EDUCATION
+# Education
 
 **PhD in Biology, Milner Centre for Evolution, University of Bath, UK** *2019 – 2023* - Thesis: Phylogenetic Diversity, Morphological Disparity & Niche Adaptation in Seabirds - Supervisors: Professor Matt Wills & Dr Nick Priest (Milner Centre for Evolution, University of Bath) and Dr Jane Younger (University of Tasmania) - Key Techniques: Advanced Analysis in R, Linear & Geometric Morphometrics, Phylogenetic Comparative Methods, Discrete Character Evolution, Species Delimitation Techniques.
 
@@ -10,7 +10,7 @@ title: "CV"
 
 ------------------------------------------------------------------------
 
-# RESEARCH APPOINTMENTS
+# Research Appointments
 
 **Senior Consultant, Strategic Analytics, AtkinsRèalis, Bristol** *March 2023 - September 2024* - Focus on developing and delivering innovative and novel data-driven solutions to client problems. - Capability lead for Data-Driven Decision-Making and creating analytical resources in R. - Currently the Simulation Workstream lead within the Airport Security Team.
 
@@ -20,7 +20,7 @@ title: "CV"
 
 ------------------------------------------------------------------------
 
-# GRANTS AND AWARDS
+# Grants & Awards
 
 -   Research Grant (£20,000 Consumable Grant) - Royal Society London (2021)
 -   Visiting Research Scholarship (\$3900 Travel Grant) - Chicago Field Museum (2020)\
@@ -29,7 +29,7 @@ title: "CV"
 
 ------------------------------------------------------------------------
 
-# CONFERENCE PRESENTATIONS
+# Conference Presentations
 
 -   Janis C, Franklin G, Baird CN & **Tyler J**. The radiation of Miocene Anchitheres: the forgotten large browsing Horses. SVPCA; Online. Poster 2021
 -   **Tyler J** & Younger J. Morphometric and genetic evidence for four species of gentoo penguin. Evolution; Online. Talk, 2021
@@ -39,7 +39,7 @@ title: "CV"
 
 ------------------------------------------------------------------------
 
-# INVITED SEMINARS
+# Invited Seminars
 
 -   Institute for Marine & Antarctic Studies, University of Tasmania – August 2022 - Diversity, Disparity & Dead-Ends? Macroevolutionary patterns in Waterbirds.
 -   Bristol Naturalists’ Society – March 2021 - Spot the difference! Understanding morphological variation in birds and the implications for cryptic species.
@@ -47,14 +47,14 @@ title: "CV"
 
 ------------------------------------------------------------------------
 
-# MEDIA COVERAGE
+# Media Coverage
 
 -   Hidden biodiversity in gentoos – Naked Scientists Podcast Interview, Ecology & Evolution Blog, BBC News, Conversation Article. Estimated reach: 531 million.
 -   Albatross Bill Shape – Conversation Article
 
 ------------------------------------------------------------------------
 
-# STUDENT SUPERVISION
+# Student Supervision
 
 **BA Biology Project Co-Supervisor (PI: Dr. Jane Younger). University of Bath, Bath, UK.** - Morphological Variation in Spheniscidae Skeletal Elements. Students: Jack Hardy (21/22), Sam Jones (21/22), Harley Mitchell (21/22) - Phylogeography & Cryptic Species in Malagasy Birds. Students: Georgina Russell (19/20), Louis Martin (20/21), Nefeli Karonis (20/21)
 
@@ -64,7 +64,7 @@ title: "CV"
 
 ------------------------------------------------------------------------
 
-# ENGAGEMENT ACTIVITIES & WIDENING PARTICIPATION
+# Engagement Activities & Widening Participation
 
 -   Evolution Conference Undergraduate Mentor. Online. 2021
 -   Global Science Show & Futures 2020. Online. 2020
@@ -73,7 +73,7 @@ title: "CV"
 
 ------------------------------------------------------------------------
 
-# WORKSHOPS AND PROFESSIONAL DEVELOPMENT
+# Workshops & Professional Development
 
 -   Statistical Rethinking. Course on Bayesian Data Analysis and Causal Inference. Online 2023
 -   SVPCA Workshop 1: 3D data, FAIR principles and Morphosource. University of Oxford, UK. 2021
