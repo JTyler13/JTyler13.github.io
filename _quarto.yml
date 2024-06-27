@@ -9,11 +9,11 @@ website:
     title: "Dr Josh Tyler"
     logo: images/favicon.png
     right:
-      - href: index.qmd
+      - href: pages/index.qmd
         text: Home
-      - papers.qmd
-      - CV.qmd
-      - blog.qmd
+      - pages/papers.qmd
+      - pages/CV.qmd
+      - pages/blog.qmd
   page-footer:
     border: true
     left: Copyright 2024 - Josh Tyler
