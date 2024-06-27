@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: _site
 
 website:
   favicon: images/favicon.png
@@ -11,9 +11,9 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - pages/papers.qmd
-      - pages/CV.qmd
-      - pages/blog.qmd
+      - papers.qmd
+      - CV.qmd
+      - blog.qmd
   page-footer:
     border: true
     left: Copyright 2024 - Josh Tyler
@@ -23,7 +23,7 @@ website:
 format:
   html:
     theme:
-      light: yeti
+      light: flatly
     css: styles.css
     toc: false
 
