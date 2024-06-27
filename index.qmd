@@ -1,7 +1,7 @@
 ---
 title: "Dr Josh Tyler"
 image: images/joshtyler.png
-# page-layout: article
+
 about: 
   template: trestles 
   image-shape: round
