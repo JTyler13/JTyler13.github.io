@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   favicon: images/favicon.png
@@ -23,7 +23,7 @@ website:
 format:
   html:
     theme:
-      light: flatly
+      light: yeti
     css: styles.css
     toc: false
 
