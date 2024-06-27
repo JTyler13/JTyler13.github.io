@@ -9,7 +9,7 @@ website:
     title: "Dr Josh Tyler"
     logo: images/favicon.png
     right:
-      - href: pages/index.qmd
+      - href: index.qmd
         text: Home
       - pages/papers.qmd
       - pages/CV.qmd
