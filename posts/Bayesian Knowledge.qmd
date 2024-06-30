@@ -1,0 +1,11 @@
+---
+title: "Bayesian Knowledge"
+description: "New additions to the bookshelf!"
+date: "6/30/2024"
+categories:
+  - Other
+---
+
+There is a chance I have overdone it slightly with preparing for my new role but its always nice to have a few books on the go at any one time!
+
+![](/images/books.jpg){fig-align="center"}
