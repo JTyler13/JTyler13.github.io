@@ -3,6 +3,10 @@ title: "Publications"
 toc: true
 ---
 
+# PhD Thesis
+
+-   **Tyler, J.** Phylogenetic Diversity, Morphological Disparity and Niche Adaptation in Seabirds. University of Bath, 2023.
+
 # Evolution and Ecology
 
 1.  **Tyler, J.**, Hocking, D. & Younger, J. Intrinsic & extrinsic drivers of shape variation in the Albatross compound bill. R. Soc. open sci. 2023 10: 230751. <https://doi.org/10.1098/rsos.230751>
@@ -13,7 +17,7 @@ toc: true
 
 4.  **Tyler, J.** & Younger, J. Diving into a dead-end: Asymmetric evolution of diving drives diversity and disparity shifts in Waterbirds. Proc. R. Soc. 2022; B289: 20222056. <https://doi.org/10.1098/rspb.2022.2056>
 
-5.  Bibi, F, & **Tyler, J.** Evolution of the bovid cranium: Morphological diversification under allometric constraint. Commun Biol. 2022; 5: 69. <https://doi.org/10.1038/s42003-021-02877-6>
+5.  Bibi, F, & **Tyler, J.** Evolution of the bovid cranium: Morphological diversification under allometric constraint. Commun Biol. 2022;5:69. <https://doi.org/10.1038/s42003-021-02877-6>
 
 6.  **Tyler, J.**, Bonfitto, MT, Clucas, GV, Reddy, S, Younger, JL Morphometric and genetic evidence for four species of gentoo penguin. Ecol Evol. 2020; 10: 13836– 13846. https://doi.org/10.1002/ece3.6973. Altmetric Summary: <https://bit.ly/3aLmUpJ>
 
