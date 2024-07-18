@@ -5,7 +5,7 @@ toc: true
 
 # PhD Thesis
 
--   **Tyler, J.** Phylogenetic Diversity, Morphological Disparity and Niche Adaptation in Seabirds. University of Bath, 2023. [PDF](_files/PhD_Thesis.pdf)
+-   **Tyler, J.** Phylogenetic Diversity, Morphological Disparity and Niche Adaptation in Seabirds. University of Bath, 2023. [PDF](files/PhD_Thesis.pdf)
 
 # Evolution and Ecology
 

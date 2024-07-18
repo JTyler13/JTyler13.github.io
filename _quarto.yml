@@ -7,7 +7,7 @@ website:
   title: "Dr Josh Tyler"
   navbar:
     title: "Dr Josh Tyler"
-    logo: _images/favicon.png
+    logo: images/favicon.png
     right:
       - href: index.qmd
         text: Home

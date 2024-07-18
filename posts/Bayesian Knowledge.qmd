@@ -8,4 +8,4 @@ categories:
 
 There is a chance I have overdone it slightly with preparing for my new role but its always nice to have a few books on the go at any one time!
 
-![](/_images/books.jpg){fig-align="center"}
+![](/images/books.jpg){fig-align="center"}

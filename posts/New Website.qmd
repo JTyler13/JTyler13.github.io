@@ -9,4 +9,4 @@ categories:
 
 I have successfully created a new academic website! To celebrate, here is a picture of the website mascot, Hubble:
 
-![](/_images/hubble1.jpg){fig-align="center"}
+![](/images/hubble1.jpg){fig-align="center"}
