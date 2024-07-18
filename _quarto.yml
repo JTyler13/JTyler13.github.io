@@ -1,13 +1,13 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: site
 
 website:
   favicon: images/favicon.png
   title: "Dr Josh Tyler"
   navbar:
     title: "Dr Josh Tyler"
-    logo: images/favicon.png
+    logo: _images/favicon.png
     right:
       - href: index.qmd
         text: Home

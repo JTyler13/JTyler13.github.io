@@ -1,6 +1,6 @@
 ---
 title: "Dr Josh Tyler"
-image: images/joshtyler.png
+image: _images/joshtyler.png
 
 about: 
   template: trestles 
@@ -18,7 +18,7 @@ about:
       href: mailto:joshua.tyler1993@gmail.com
 ---
 
-&nbsp;
+ 
 
 #### I am an Evolutionary Biologist with a focus on macroevolution and modelling. I am particularly interested in understanding the levels to which evolution and ecology are predictable and how we can use advances in simulation and statistics to model past and future biodiversity.
 
