@@ -19,7 +19,7 @@ toc: true
 
 5.  Bibi, F, & **Tyler, J.** Evolution of the bovid cranium: Morphological diversification under allometric constraint. Commun Biol. 2022;5:69. <https://doi.org/10.1038/s42003-021-02877-6>
 
-6.  **Tyler, J.**, Bonfitto, MT, Clucas, GV, Reddy, S, Younger, JL Morphometric and genetic evidence for four species of gentoo penguin. Ecol Evol. 2020; 10: 13836– 13846. https://doi.org/10.1002/ece3.6973. Altmetric Summary: <https://bit.ly/3aLmUpJ>
+6.  **Tyler, J.**, Bonfitto, MT, Clucas, GV, Reddy, S, Younger, JL Morphometric and genetic evidence for four species of gentoo penguin. Ecol Evol. 2020; 10: 13836– 13846. <https://doi.org/10.1002/ece3.6973>. Altmetric Summary: <https://bit.ly/3aLmUpJ>
 
 # Healthcare Modelling
 
