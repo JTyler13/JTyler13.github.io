@@ -1,6 +1,6 @@
 ---
 title: "Dr Josh Tyler"
-image: images/joshtyler.png
+image: images/joshtyler2.jpg
 
 about: 
   template: trestles 
