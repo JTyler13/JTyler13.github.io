@@ -4,7 +4,7 @@ image: images/joshtyler3.jpeg
 
 about: 
   template: trestles 
-  image-shape: round
+  image-shape: rounded
   image-width: 25em
   links: # create buttons
     - icon: github
