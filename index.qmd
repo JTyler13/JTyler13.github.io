@@ -18,9 +18,7 @@ about:
       href: mailto:jtyler@turing.ac.uk
 ---
 
-::: {style="color: #45B39D"}
-# Research Associate in Probabilistic Programming at the Turing Institute
-:::
+# Research Associate in Probabilistic Programming at the Turing Institute {style="color: #45B39D"}
 
 #### I am an Evolutionary Biologist with a focus on macroevolution and modelling. I am particularly interested in understanding the levels to which evolution and ecology are predictable and how we can use advances in simulation and statistics to model past and future biodiversity.
 
