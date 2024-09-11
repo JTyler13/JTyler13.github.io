@@ -3,7 +3,7 @@ title: "Research"
 ---
 
 ::: {layout="[30,70]"}
-![](images/Lab_Logo.png)
+![](images/tree.png)
 
 ## Macroevolution & Phylogenetic Comparative Methods
 
