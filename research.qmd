@@ -10,16 +10,16 @@ title: "Research"
 My research explores the patterns and processes that have generated the incredible diversity of life on Earth. I'm particularly interested in phylogenetic diversity (how evolutionary history shapes current biodiversity), morphological disparity (the variety of shapes and forms seen in organisms), and how species adapt to their ecological niches. I use phylogenetic comparative methods to analyse these patterns, helping us to understand how evolution works over long time-scales.
 :::
 
-::: {layout="[70,30]"}
+::: {layout="[60,40]"}
 ## Biodiversity Forecasting
 
 In an era of rapid environmental change, understanding and predicting the future of biodiversity is crucial. My work focuses on how species distributions and interactions may change in response to climate change, habitat loss, and human disturbance. In particular, I look to use PGLMMs (Phylogenetic Generalised Linear Mixed Models) to help predict occurrence and abundances of species based on large-scale environmental, trait and phylogenetic data
 
-![](images/Lab_Logo.png)
+![](images/Penguins.png)
 :::
 
 ::: {layout="[30,70]"}
-![](images/Lab_Logo.png)
+![](images/DES.png)
 
 ## Applied Simulation & Modelling
 I am also interested in the application of simulation and modelling in other sectors, such as Healthcare, Security and Policy. I have used Discrete Event Simulation to help model Hospital stays, Covid Vaccination Centres and Airport Security lanes which has helped move decision makers away from simply using averages and provided an appreciation of the stochastic elements of their processes.
