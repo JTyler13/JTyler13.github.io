@@ -14,10 +14,31 @@
     "text": "PhD Thesis\n\nTyler, J. Phylogenetic Diversity, Morphological Disparity and Niche Adaptation in Seabirds. University of Bath, 2023. PDF\n\n\n\nEvolution and Ecology\n\nTyler, J., Hocking, D. & Younger, J. Intrinsic & extrinsic drivers of shape variation in the Albatross compound bill. R. Soc. open sci. 2023 10: 230751. https://doi.org/10.1098/rsos.230751\nTyler, J. & Younger, J. How we found three new species of penguins. Front. Young Minds - Biodiversity. https://doi.org/10.3389/frym.2023.1044850\nJanis, C.M., Franklin, E., Baird, C.N., Tyler, J. (2023). The Miocene Browsing Horses: Another Way to Be a Successful Large Equid. In: Prins, H.H.T., Gordon, I.J. (eds) The Equids. Fascinating Life Sciences. Springer, Cham. https://doi.org/10.1007/978-3-031-27144-1_3\nTyler, J. & Younger, J. Diving into a dead-end: Asymmetric evolution of diving drives diversity and disparity shifts in Waterbirds. Proc. R. Soc. 2022; B289: 20222056. https://doi.org/10.1098/rspb.2022.2056\nBibi, F, & Tyler, J. Evolution of the bovid cranium: Morphological diversification under allometric constraint. Commun Biol. 2022;5:69. https://doi.org/10.1038/s42003-021-02877-6\nTyler, J., Bonfitto, MT, Clucas, GV, Reddy, S, Younger, JL Morphometric and genetic evidence for four species of gentoo penguin. Ecol Evol. 2020; 10: 13836– 13846. https://doi.org/10.1002/ece3.6973. Altmetric Summary: https://bit.ly/3aLmUpJ\n\n\n\nHealthcare Modelling\n\nTyler J, Murch BJ, Vasilakis C & Wood RM. Improving uptake of simulation in healthcare: User-driven development of an open-source tool for modelling patient flow. Journal of Simulation. 2022; 17:1-18 https://doi.org/10.1080/17477778.2022.2081521\nTyler, J, Pratt, AC, Wooster, J, Vasilakis, C, Wood, RM. The impact of increased outpatient telehealth during COVID‐19: Retrospective analysis of patient survey and routine activity data from a major healthcare system in England. Int J Health Plann Mgmt. 2021; 36: 1338-1345. https://doi.org/10.1002/hpm.3185\nWood, RM, Murch, BJ, Moss, SJ, Tyler, J, Thompson, AL, Vasilakis, C. Operational research for the safe and effective design of COVID-19 mass vaccination centres. Vaccine. 2021. 39:27: 3537-3540 https://doi.org/10.1016/j.vaccine.2021.05.024"
   },
   {
+    "objectID": "research.html#macroevolution-phylogenetic-comparative-methods",
+    "href": "research.html#macroevolution-phylogenetic-comparative-methods",
+    "title": "Research",
+    "section": "Macroevolution & Phylogenetic Comparative Methods",
+    "text": "Macroevolution & Phylogenetic Comparative Methods\nMy research explores the patterns and processes that have generated the incredible diversity of life on Earth. I’m particularly interested in phylogenetic diversity (how evolutionary history shapes current biodiversity), morphological disparity (the variety of shapes and forms seen in organisms), and how species adapt to their ecological niches. I use phylogenetic comparative methods to analyse these patterns, helping us to understand how evolution works over long time-scales."
+  },
+  {
+    "objectID": "research.html#biodiversity-forecasting",
+    "href": "research.html#biodiversity-forecasting",
+    "title": "Research",
+    "section": "Biodiversity Forecasting",
+    "text": "Biodiversity Forecasting\nIn an era of rapid environmental change, understanding and predicting the future of biodiversity is crucial. My work focuses on how species distributions and interactions may change in response to climate change, habitat loss, and human disturbance. In particular, I look to use PGLMMs (Phylogenetic Generalised Linear Mixed Models) to help predict occurrence and abundances of species based on large-scale environmental, trait and phylogenetic data"
+  },
+  {
+    "objectID": "research.html#applied-simulation-modelling",
+    "href": "research.html#applied-simulation-modelling",
+    "title": "Research",
+    "section": "Applied Simulation & Modelling",
+    "text": "Applied Simulation & Modelling\nI am also interested in the application of simulation and modelling in other sectors, such as Healthcare, Security and Policy. I have used Discrete Event Simulation to help model Hospital stays, Covid Vaccination Centres and Airport Security lanes which has helped move decision makers away from simply using averages and provided an appreciation of the stochastic elements of their processes."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dr Josh Tyler",
     "section": "",
-    "text": "Research Associate in Probabilistic Programming at the Turing Institute\n\nI am an Evolutionary Biologist with a focus on macroevolution and modelling. I am particularly interested in understanding the levels to which evolution and ecology are predictable and how we can use advances in simulation and statistics to model past and future biodiversity.\n\n\nMy current project looks to investigate how probabilistic programming can improve biodiversity function predictions. We are also building a new community around Probabilistic Programming and its applications to Biodiversity, Health and Evolution. This will include the creation of new training resources so watch this space!"
+    "text": "Research Associate in Probabilistic Programming at the Turing Institute\n\nI am an Evolutionary Biologist with a focus on macroevolution and modelling. I am particularly interested in understanding the levels to which evolution and ecology are predictable and how we can use advances in simulation and statistics to model past and future biodiversity.\n\n\nMy current project looks to investigate how probabilistic programming can improve biodiversity function predictions. We are also building a new community around Probabilistic Programming and its applications to Biodiversity, Health and Evolution. Check out Turing PPL for more information!"
   }
 ]

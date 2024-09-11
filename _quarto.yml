@@ -11,6 +11,7 @@ website:
     right:
       - href: index.qmd
         text: Home
+      - href: research.qmd
       - papers.qmd
       - CV.qmd
   page-footer:
@@ -27,4 +28,4 @@ format:
     toc: false
     page-layout: full
 
-editor: visual
+editor: source
