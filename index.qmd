@@ -1,11 +1,11 @@
 ---
 title: "Dr Josh Tyler"
-image: images/joshtyler3.jpeg
+image: images/joshtyler.png
 
 about: 
   template: trestles 
   image-shape: round
-  image-width: 27em
+  image-width: 20em
   links: # create buttons
     - icon: github
       text: GitHub
