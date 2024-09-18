@@ -25,6 +25,12 @@ toc: true
 
 # Research Appointments
 
+**Research Associate in Probabilistic Programming at the Turing Institute** **September 2024-Present**
+
+-   Focus on building a UK Probabilistic Programming Community around Biodiversity, Health and Climate.
+
+-   Leading research into the applications of PGLMMs to ecological and evolutionary questions.
+
 **Senior Consultant, Strategic Analytics, AtkinsRèalis, Bristol** *March 2023 - September 2024*
 
 -   Focus on developing and delivering innovative and novel data-driven solutions to client problems.
@@ -44,6 +50,13 @@ toc: true
 -   Project: Herbivore Niche Differentiation and the Intensification of Competition in African Savannahs
 
 -   Project Overview: The DFG-funded project sought to trace the evolution of niche partitioning and competitive interaction across Bovidae (Antelope & their relatives) on the African Savannah from their origins through to the Recent.
+
+------------------------------------------------------------------------
+
+# Teaching
+
+-   PGLMMs for Biodiversity Modelling Workshop - StanCon (2024)
+
 
 ------------------------------------------------------------------------
 
