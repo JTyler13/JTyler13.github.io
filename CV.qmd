@@ -25,7 +25,7 @@ toc: true
 
 # Research Appointments
 
-**Research Associate in Probabilistic Programming at the Turing Institute** **September 2024-Present**
+**Research Associate in Probabilistic Programming at the Turing Institute** *September 2024-Present*
 
 -   Focus on building a UK Probabilistic Programming Community around Biodiversity, Health and Climate.
 
