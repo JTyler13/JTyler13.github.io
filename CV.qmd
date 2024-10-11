@@ -55,6 +55,7 @@ toc: true
 
 # Teaching
 
+-   Maths for Life Sciences (1st Year Course) - Imperial College London (2025)
 -   PGLMMs for Biodiversity Modelling Workshop - StanCon (2024)
 
 
