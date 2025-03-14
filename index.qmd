@@ -24,6 +24,3 @@ about:
 
 #### We are also building a new community around Probabilistic Programming and its applications to Biodiversity, Health and Evolution. Check out [SPHERE-PPL](https://sphere-ppl.org) for more information!
 
-#### 
-
-![](images/Lab_Logo.png){fig-align="center" width="400"}
