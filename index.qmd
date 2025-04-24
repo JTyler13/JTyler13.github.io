@@ -4,15 +4,12 @@ image: images/joshtyler.jpg
 
 about: 
   template: trestles 
-  image-shape: rounded
+  image-shape: round
   image-width: 25em
   links: # create buttons
     - icon: github
       text: GitHub
       href: https://github.com/jtyler13
-    - icon: twitter
-      text: Twitter
-      href: https://x.com/JoshTylerEarth
     - icon: envelope
       text: Email
       href: mailto:jtyler@turing.ac.uk
