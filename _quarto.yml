@@ -16,7 +16,7 @@ website:
       - CV.qmd
   page-footer:
     border: true
-    left: Copyright 2024 - Josh Tyler
+    left: Copyright 2025 - Josh Tyler
     right:
       - text: "Probabilistic Programming and its applications in Evolution, Biodiversity & Health"
 

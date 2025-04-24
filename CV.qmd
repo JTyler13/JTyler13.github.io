@@ -27,9 +27,14 @@ toc: true
 
 **Research Associate in Probabilistic Programming at the Turing Institute** *September 2024-Present*
 
--   Focus on building a UK Probabilistic Programming Community around Biodiversity, Health and Climate.
-
--   Leading research into the applications of PGLMMs to ecological and evolutionary questions.
+-   Project: A UK Spatial, Climate & Health Probabilistic Programming Language Community – SPHERE-PPL (sphere-ppl.org)
+-   Research focused around applied statistical methods in ecology and evolution, with an emphasis on predictive modelling. Current research areas include:
+    -   Building Bayesian Hierarchical models to predict animal and plant biodiversity hotspots
+    -   Refining Phylogenetic Generalised Linear Mixed Models (PGLMMs) to incorporate environmental filtering of species and traits
+-   Main Responsibilities:
+    -   Create and manage open-source forecasting contests including all training materials, contest repos and all back-end tools
+    -   Build and maintain an international community of interested researchers alongside organising in-person and virtual workshops and meetings
+    -   Lead organiser for the Health Modelling and Forecasting event in Jan 2025, where 50 leaders & stakeholders in the health sector met to share analytical problems and identify joint solutions, forming the basis of the forecasting contests.
 
 **Senior Consultant, Strategic Analytics, AtkinsRèalis, Bristol** *March 2023 - September 2024*
 
@@ -58,6 +63,13 @@ toc: true
 -   Maths for Life Sciences (1st Year Course) - Imperial College London (2025)
 -   PGLMMs for Biodiversity Modelling Workshop - StanCon (2024)
 
+------------------------------------------------------------------------
+
+# Leadership Roles
+
+-   Health Modelling & Forecasting Workshop Organiser. Alan Turing Institute, London, Jan 2025
+-   Forecast Contest Lead Designer. SPHERE-PPL. Online.
+-   Capability Lead for Simulation & Analytics. Aerospace, Defence, Security & Technology Division, AtkinsRèalis
 
 ------------------------------------------------------------------------
 
@@ -92,32 +104,41 @@ toc: true
 
 -   Hidden biodiversity in gentoos – [Naked Scientists Podcast Interview](https://www.thenakedscientists.com/articles/interviews/gentoo-penguins-three-hidden-species-discovered), [Ecology & Evolution Blog](https://ecologyandevolutionblog.wordpress.com/2020/11/06/hidden-biodiversity-in-gentoo-penguins/), [BBC News](https://www.bbc.co.uk/news/science-environment-54817124#:~:text=Scientists%20are%20calling%20for%20a,told%20apart%20by%20their%20DNA.), [Conversation Article](https://theconversation.com/how-we-discovered-three-new-species-of-penguin-in-the-southern-ocean-149325). Estimated reach: 531 million.
 -   Albatross Bill Shape – [Conversation Article](https://theconversation.com/thick-ones-pointy-ones-how-albatross-beaks-evolved-to-match-their-prey-211461)
+- Penguin Research – Midnight Meets with Colin Murray (Radio 5 Live)
 
 ------------------------------------------------------------------------
 
 # Student Supervision
 
-**BA Biology Project Co-Supervisor (PI: Dr. Jane Younger). University of Bath, Bath, UK.**
+- **BSc Biotechnology Project Co-Supervisor (PI: Dr. Will Pearse). Imperial, UK.**
 
-*Morphological Variation in Spheniscidae Skeletal Elements*
+  - *Understanding and forecasting NHS A&E patient load.*
 
-Students: Jack Hardy (21/22), Sam Jones (21/22), Harley Mitchell (21/22)
+    - Students: Gabriela Lemos Vargas (24/25)
 
-*Phylogeography & Cryptic Species in Malagasy Birds*
 
-Students: Georgina Russell (19/20), Louis Martin (20/21), Nefeli Karonis (20/21)
 
-**MSc Bioinformatics Project Co-Supervisor (PI: Dr. Nick Priest). University of Bath, Bath, UK.**
+- **BA Biology Project Co-Supervisor (PI: Dr. Jane Younger). University of Bath, Bath, UK.**
 
-*Understanding Global Patterns of Biodiversity and Diversification in Fungi*
+  - *Morphological Variation in Spheniscidae Skeletal Elements*
 
-Students: Gabriel Crabb (21/22), Enea Jorgji (21/22)
+    - Students: Jack Hardy (21/22), Sam Jones (21/22), Harley Mitchell (21/22)
 
-**MSci Palaeobiology Thesis Co-Supervisor (PI: Prof Christine Janis). University of Bristol, Bristol, UK.**
+  - *Phylogeography & Cryptic Species in Malagasy Birds*
 
-*Locomotor evolution in horses: divergence between anchitheres and equines*
+    - Students: Georgina Russell (19/20), Louis Martin (20/21), Nefeli Karonis (20/21)
 
-Students: Gwen Franklin (20/21)
+- **MSc Bioinformatics Project Co-Supervisor (PI: Dr. Nick Priest). University of Bath, Bath, UK.**
+
+  - *Understanding Global Patterns of Biodiversity and Diversification in Fungi*
+
+    - Students: Gabriel Crabb (21/22), Enea Jorgji (21/22)
+
+- **MSci Palaeobiology Thesis Co-Supervisor (PI: Prof Christine Janis). University of Bristol, Bristol, UK.**
+
+  - *Locomotor evolution in horses: divergence between anchitheres and equines*
+
+    - Students: Gwen Franklin (20/21)
 
 ------------------------------------------------------------------------
 
