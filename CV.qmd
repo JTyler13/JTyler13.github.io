@@ -3,29 +3,16 @@ title: "CV"
 toc: true
 ---
 
-# Education
-
-**PhD in Biology, Milner Centre for Evolution, University of Bath, UK** *2019 – 2023*
-
--   Thesis: Phylogenetic Diversity, Morphological Disparity & Niche Adaptation in Seabirds
-
--   Supervisors: Professor Matt Wills & Dr Nick Priest (Milner Centre for Evolution, University of Bath) and Dr Jane Younger (University of Tasmania)
-
--   Key Techniques: Advanced Analysis in R, Linear & Geometric Morphometrics, Phylogenetic Comparative Methods, Discrete Character Evolution, Species Delimitation Techniques.
-
-**Master of Earth Sciences, Exeter College, University of Oxford, UK** *2011 – 2015*
-
--   Degree & Classification: MEarthSci – 2.i
-
--   Masters Thesis: “The battle for the Mesozoic skies: Studying competition as a driver of macroevolution in pterosaurs” (Supervisor: Prof R Benson, First Class)
-
--   Fieldwork Locations: Pembrokeshire, Arran, Dorset, Assynt, Corsica, Almeria/Carboneras (SE Spain), Bermuda.
-
-------------------------------------------------------------------------
-
 # Research Appointments
 
-**Research Associate in Probabilistic Programming at the Turing Institute** *September 2024-Present*
+**Data Scientist & Research Software Engineer, Jean Golding Instistute, University of Bristol** *January 2026-Present*
+
+-   Working across the University on a range of projects including:
+    - Building the `DigiQual` python package for the UNDT group in the School of Electrical, Electronic and Mechanical Engineering: [Documentation](https://jgibristol.github.io/digiqual/) & [Repo](https://github.com/JGIBristol/digiqual)
+    - Providing Data Science support to the [PPADEM Project](https://politicalpartiesafrica.com/ppadem/) in the School of Sociology, Politics and International Studies.
+    - Statistical support to the Diabetes and Metabolism team at the Bristol Medical School.
+
+**Research Associate in Probabilistic Programming, The Alan Turing Institute** *September 2024-December 2025*
 
 -   Project: A UK Spatial, Climate & Health Probabilistic Programming Language Community – SPHERE-PPL (sphere-ppl.org)
 -   Research focused around applied statistical methods in ecology and evolution, with an emphasis on predictive modelling. Current research areas include:
@@ -55,6 +42,26 @@ toc: true
 -   Project: Herbivore Niche Differentiation and the Intensification of Competition in African Savannahs
 
 -   Project Overview: The DFG-funded project sought to trace the evolution of niche partitioning and competitive interaction across Bovidae (Antelope & their relatives) on the African Savannah from their origins through to the Recent.
+
+------------------------------------------------------------------------
+
+# Education
+
+**PhD in Biology, Milner Centre for Evolution, University of Bath, UK** *2019 – 2023*
+
+-   Thesis: Phylogenetic Diversity, Morphological Disparity & Niche Adaptation in Seabirds
+
+-   Supervisors: Professor Matt Wills & Dr Nick Priest (Milner Centre for Evolution, University of Bath) and Dr Jane Younger (University of Tasmania)
+
+-   Key Techniques: Advanced Analysis in R, Linear & Geometric Morphometrics, Phylogenetic Comparative Methods, Discrete Character Evolution, Species Delimitation Techniques.
+
+**Master of Earth Sciences, Exeter College, University of Oxford, UK** *2011 – 2015*
+
+-   Degree & Classification: MEarthSci – 2.i
+
+-   Masters Thesis: “The battle for the Mesozoic skies: Studying competition as a driver of macroevolution in pterosaurs” (Supervisor: Prof R Benson, First Class)
+
+-   Fieldwork Locations: Pembrokeshire, Arran, Dorset, Assynt, Corsica, Almeria/Carboneras (SE Spain), Bermuda.
 
 ------------------------------------------------------------------------
 

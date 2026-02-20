@@ -11,14 +11,13 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: research.qmd
       - papers.qmd
       - CV.qmd
   page-footer:
     border: true
-    left: Copyright 2025 - Josh Tyler
+    left: Copyright 2026 - Josh Tyler
     right:
-      - text: "Probabilistic Programming and its applications in Evolution, Biodiversity & Health"
+      - text: "Interdisciplinary Researcher in Data Science"
 
 format:
   html:

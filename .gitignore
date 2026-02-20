@@ -8,3 +8,5 @@ vendor
 
 /.quarto/
 /_docs/
+
+**/*.quarto_ipynb
