@@ -14,6 +14,7 @@ toc: true
 Jean Golding Institute, University of Bristol
 :::
 Providing data science and research software engineering support on collaborative university projects:
+
 -   **Package Development:** Developed and maintain the [`digiqual`](projects.qmd#digiqual) Python package for Non-Destructive Evaluation reliability assessment in EEME.
 -   **Statistical Analysis:** Provide statistics and model-building support to the Diabetes and Metabolism team at the Bristol Medical School.
 -   **Data Science Support:** Work on data pipelines and analysis for the [PPADEM Project](https://politicalpartiesafrica.com/ppadem/) in the School of Sociology, Politics and International Studies.
@@ -28,6 +29,7 @@ Providing data science and research software engineering support on collaborativ
 The Alan Turing Institute, London
 :::
 Research on applied statistical methods in ecology and evolution for the **SPHERE-PPL** project:
+
 -   **Community Software:** Developed and managed open-source forecasting contests, back-end scoring tools, and developer starter templates.
 -   **Statistical Modelling:** Built Bayesian Hierarchical models and refined Phylogenetic Generalised Linear Mixed Models (PGLMMs) to evaluate biodiversity hotspots and trait-environment filtering.
 -   **Event Organization:** Co-organized the *Health Modelling & Forecasting Workshop* (Jan 2025) at the British Library.
@@ -55,6 +57,7 @@ Delivered data-driven decision-making and operational research solutions:
 BNSSG CCG, National Health Service (NHS), Bristol
 :::
 Developed analytical packages and user interfaces in R to model pathway capacity and patient flow:
+
 -   **PathSimR Package:** Developed the [`PathSimR`](projects.qmd#pathsimr) discrete event simulation (DES) package and Shiny application.
 -   **Operational Analysis:** Modeled patient pathways, telehealth implementations, and COVID-19 vaccination clinic queues using queueing theory and stochastic modelling.
 :::
@@ -68,6 +71,7 @@ Developed analytical packages and user interfaces in R to model pathway capacity
 Museum für Naturkunde, Berlin, Germany
 :::
 Collaborated on DFG-funded research tracing niche evolution across African Savannah herbivores (Bovidae):
+
 -   **Fieldwork:** Led morphometric data collection campaigns in Nairobi, Kenya and Addis Ababa, Ethiopia.
 :::
 
