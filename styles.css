@@ -2,9 +2,9 @@
 
 /* Map your custom theme variables directly to Bootstrap tokens */
 :root {
-  --bg-main: #ffffff;            /* Pure white page bg */
-  --bg-card: #ffffff;            /* Pure white card backgrounds */
-  --bg-tint: #edf5f3;            /* Soft mint/green background tint */
+  --bg-main: #f8fafc;            /* Grey page bg */
+  --bg-card: #f8fafc;            /* Grey card backgrounds */
+  --bg-tint: #c8fcee;            /* Soft mint/green background tint */
   --text-main: #334155;          /* Slate grey for high readability */
   --text-dark: #0f172a;          /* Deep dark slate for headers */
   --accent-color: #0f5143;       /* Dark forest green primary buttons/accents */
@@ -385,7 +385,7 @@ ol.publications-list li {
   }
 
   /* 3. Style active or hovered links inside mobile view */
-  .navbar-collapse .nav-link:hover, 
+  .navbar-collapse .nav-link:hover,
   .navbar-collapse .nav-link.active {
     color: var(--text-dark) !important;
     background-color: var(--bg-tint) !important;
