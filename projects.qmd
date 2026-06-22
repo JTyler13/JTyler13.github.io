@@ -6,6 +6,8 @@ toc: true
 
 A selection of research software packages, data science tools, and quantitative projects I have developed or contributed to.
 
+## Active Projects
+
 <!-- digiqual -->
 ::: {.project-item #digiqual}
 ::: {.project-image-container}
@@ -58,6 +60,9 @@ Data Science and Management support provided to the Political Parties in Africa 
 :::
 :::
 :::
+
+
+## Past Projects
 
 <!-- PathSimR -->
 ::: {.project-item #pathsimr}
