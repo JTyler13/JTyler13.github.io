@@ -1,3 +1,368 @@
-html, body, body.nav-fixed, body.nav-sidebar, #quarto-content, .quarto-container, main.content, .page-columns, #quarto-margin-sidebar, .quarto-secondary-nav {
-  background-color: #FFFFFF !important;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --bg-main: #f8fafc;            /* Clean slate-white page bg */
+  --bg-card: #ffffff;            /* Pure white card backgrounds */
+  --bg-tint: #f1f5f9;            /* Cool slate-grey for badges/tags */
+  --text-main: #334155;          /* Slate grey for high readability */
+  --text-dark: #0f172a;          /* Deep dark slate for headers */
+  --accent-color: #475569;       /* Medium slate grey for primary buttons/accents */
+  --accent-hover: #334155;       /* Darker slate for hover states */
+  --link-color: #2563eb;         /* Classic clean link blue */
+  --link-hover: #1d4ed8;         /* Deeper blue for hover link */
+  --border-color: #e2e8f0;       /* Light border line grey */
+  --border-hover: #cbd5e1;       /* Slightly darker border on hover */
+}
+
+/* Global Styles */
+html, body {
+  font-family: 'Inter', sans-serif;
+  color: var(--text-main);
+  background-color: var(--bg-main) !important;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+body.nav-fixed, body.nav-sidebar, #quarto-content, .quarto-container, main.content, .page-columns, #quarto-margin-sidebar, .quarto-secondary-nav {
+  background-color: var(--bg-main) !important;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+  color: var(--text-dark);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  transition: color 0.15s ease-in-out;
+}
+
+a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+.center-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Navbar Customization (Flat & Minimal) */
+.navbar {
+  background-color: #ffffff !important;
+  border-bottom: 1px solid var(--border-color);
+  padding: 0.8rem 1.5rem;
+}
+
+.navbar-brand {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--text-dark) !important;
+}
+
+.navbar-brand img {
+  max-height: 30px;
+}
+
+.nav-link {
+  font-weight: 500;
+  color: var(--text-main) !important;
+  padding: 0.4rem 0.8rem !important;
+  border-radius: 4px;
+  transition: all 0.15s ease;
+}
+
+.nav-link:hover, .nav-link.active {
+  color: var(--text-dark) !important;
+  background-color: var(--bg-tint);
+}
+
+/* Main Content Layout */
+#quarto-content {
+  padding-top: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* About / Home Page Customization (Trestles Template) */
+.quarto-about-trestles {
+  border: none !important;
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 3rem;
+  padding: 1.5rem 0;
+}
+
+@media (max-width: 768px) {
+  .quarto-about-trestles {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+}
+
+.about-entity {
+  background: var(--bg-card);
+  padding: 2rem;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  text-align: center;
+  height: fit-content;
+}
+
+.about-entity img {
+  border: 1px solid var(--border-color);
+  max-width: 180px !important;
+  height: 180px !important;
+  object-fit: cover;
+}
+
+.about-entity .about-name {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  color: var(--text-dark);
+}
+
+.about-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 1.2rem;
+}
+
+.about-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: all 0.15s ease !important;
+  border: 1px solid var(--border-color) !important;
+  background-color: var(--bg-card) !important;
+  color: var(--text-main) !important;
+}
+
+.about-link:hover {
+  background-color: var(--bg-tint) !important;
+  color: var(--text-dark) !important;
+  border-color: var(--border-hover) !important;
+  text-decoration: none !important;
+}
+
+/* Custom Grid Card Layout (Flat / Border-only) */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.project-card {
+  background: var(--bg-card);
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  transition: border-color 0.15s ease;
+}
+
+.project-card:hover {
+  border-color: var(--border-hover);
+}
+
+.project-card.featured {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+@media (max-width: 768px) {
+  .project-card.featured {
+    grid-template-columns: 1fr;
+  }
+}
+
+.project-image-container {
+  position: relative;
+  overflow: hidden;
+  background: #f8fafc;
+  height: 180px;
+  display: flex;         /* Added to help center un-squished images */
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;       /* Prevents plots/logos from touching the edge */
+}
+
+.project-card.featured .project-image-container {
+  height: 100%;
+  min-height: 220px;
+}
+
+.project-image {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;           /* Forces the browser to respect natural width */
+  height: auto;          /* Forces the browser to respect natural height */
+  object-fit: contain;   /* Scales the image nicely inside the box without stretching */
+}
+
+.project-body {
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.project-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.6rem;
+}
+
+.tag {
+  background: var(--bg-tint);
+  color: var(--text-main);
+  font-size: 0.7rem;
+  font-weight: 500;
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.tag.featured-badge {
+  background: var(--accent-color);
+  color: #ffffff;
+}
+
+.project-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+  color: var(--text-dark);
+}
+
+.project-description {
+  font-size: 0.875rem;
+  color: var(--text-main);
+  margin-bottom: 1.25rem;
+  flex-grow: 1;
+}
+
+.project-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  border-top: 1px solid var(--border-color);
+  padding-top: 0.75rem;
+}
+
+.project-link-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.35rem 0.7rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  border: 1px solid var(--border-color);
+  background-color: var(--bg-card);
+  color: var(--text-main);
+  transition: all 0.15s ease;
+}
+
+.project-link-btn:hover {
+  background-color: var(--bg-tint);
+  color: var(--text-dark);
+  border-color: var(--border-hover);
+  text-decoration: none;
+}
+
+.project-link-btn.primary {
+  background-color: var(--accent-color);
+  color: white;
+  border-color: var(--accent-color);
+}
+
+.project-link-btn.primary:hover {
+  background-color: var(--accent-hover);
+  color: white;
+  border-color: var(--accent-hover);
+}
+
+/* Callouts & Footers */
+.callout {
+  border-left: 3px solid var(--accent-color) !important;
+  background-color: var(--bg-tint) !important;
+  border-radius: 3px;
+}
+
+.page-footer {
+  border-top: 1px solid var(--border-color);
+  padding: 1.25rem 0;
+  margin-top: 3.5rem;
+  font-size: 0.8rem;
+  color: #64748b;
+}
+
+/* CV Section Timeline styling */
+.cv-section h1 {
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.25rem;
+  margin-top: 1.75rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.4rem;
+}
+
+.cv-item {
+  margin-bottom: 1.25rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.cv-item:last-child {
+  border-bottom: none;
+}
+
+.cv-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+.cv-role {
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--text-dark);
+}
+
+.cv-date {
+  font-size: 0.85rem;
+  color: var(--text-main);
+  font-weight: 500;
+}
+
+.cv-org {
+  font-weight: 500;
+  font-size: 0.9rem;
+  color: var(--text-main);
+  margin-bottom: 0.4rem;
+}
+
+ol.publications-list li {
+  margin-bottom: 0.75rem;
 }

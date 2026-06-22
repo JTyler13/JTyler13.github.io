@@ -1,166 +1,169 @@
 ---
-title: "CV"
+title: "CV & Experience"
 toc: true
 ---
 
-# Research Appointments
+::: {.cv-section}
 
-**Data Scientist & Research Software Engineer, Jean Golding Instistute, University of Bristol** *January 2026-Present*
+# Research & Professional Appointments
 
--   Working across the University on a range of projects including:
-    - Building the `DigiQual` python package for the UNDT group in the School of Electrical, Electronic and Mechanical Engineering: [Documentation](https://jgibristol.github.io/digiqual/) & [Repo](https://github.com/JGIBristol/digiqual)
-    - Providing Data Science support to the [PPADEM Project](https://politicalpartiesafrica.com/ppadem/) in the School of Sociology, Politics and International Studies.
-    - Statistical support to the Diabetes and Metabolism team at the Bristol Medical School.
+::: {.cv-item}
+::: {.cv-header}
+[Data Scientist & Research Software Engineer]{.cv-role}
+[Jan 2026 – Present]{.cv-date}
+:::
+::: {.cv-org}
+Jean Golding Institute, University of Bristol
+:::
+Providing data science and research software engineering support on collaborative university projects:
 
-**Research Associate in Probabilistic Programming, The Alan Turing Institute** *September 2024-December 2025*
+-   **Package Development:** Developed and maintain the [`digiqual`](projects.qmd#digiqual) Python package for Non-Destructive Evaluation reliability assessment in EEME.
+-   **Statistical Analysis:** Provide statistics and model-building support to the Diabetes and Metabolism team at the Bristol Medical School.
+-   **Data Science Support:** Work on data pipelines and analysis for the [PPADEM Project](https://politicalpartiesafrica.com/ppadem/) in the School of Sociology, Politics and International Studies.
+:::
 
--   Project: A UK Spatial, Climate & Health Probabilistic Programming Language Community – SPHERE-PPL (sphere-ppl.org)
--   Research focused around applied statistical methods in ecology and evolution, with an emphasis on predictive modelling. Current research areas include:
-    -   Building Bayesian Hierarchical models to predict animal and plant biodiversity hotspots
-    -   Refining Phylogenetic Generalised Linear Mixed Models (PGLMMs) to incorporate environmental filtering of species and traits
--   Main Responsibilities:
-    -   Create and manage open-source forecasting contests including all training materials, contest repos and all back-end tools
-    -   Build and maintain an international community of interested researchers alongside organising in-person and virtual workshops and meetings
-    -   Lead organiser for the Health Modelling and Forecasting event in Jan 2025, where 50 leaders & stakeholders in the health sector met to share analytical problems and identify joint solutions, forming the basis of the forecasting contests.
+::: {.cv-item}
+::: {.cv-header}
+[Research Associate in Probabilistic Programming]{.cv-role}
+[Sep 2024 – Dec 2025]{.cv-date}
+:::
+::: {.cv-org}
+The Alan Turing Institute, London
+:::
+Research on applied statistical methods in ecology and evolution for the **SPHERE-PPL** project:
 
-**Senior Consultant, Strategic Analytics, AtkinsRèalis, Bristol** *March 2023 - September 2024*
+-   **Community Software:** Developed and managed open-source forecasting contests, back-end scoring tools, and developer starter templates.
+-   **Statistical Modelling:** Built Bayesian Hierarchical models and refined Phylogenetic Generalised Linear Mixed Models (PGLMMs) to evaluate biodiversity hotspots and trait-environment filtering.
+-   **Event Organization:** Co-organized the *Health Modelling & Forecasting Workshop* (Jan 2025) at the British Library.
+:::
 
--   Focus on developing and delivering innovative and novel data-driven solutions to client problems.
+::: {.cv-item}
+::: {.cv-header}
+[Senior Consultant, Strategic Analytics]{.cv-role}
+[Mar 2023 – Sep 2024]{.cv-date}
+:::
+::: {.cv-org}
+AtkinsRèalis, Bristol
+:::
+Delivered data-driven decision-making and operational research solutions:
 
--   Capability lead for Data-Driven Decision-Making and creating analytical resources in R.
+-   **Software Capability Lead:** Managed the development of custom analytical tools in R, line-managing several teams of analysts.
+-   **Operational Research:** Served as Simulation Workstream Lead for Heathrow Security and Manchester Airport Group security programs.
+:::
 
-**Simulation Modelling Specialist: Modelling & Analytics, NHS, Bristol** *January 2019 - September 2019 & November 2020 – June 2021*
+::: {.cv-item}
+::: {.cv-header}
+[Simulation Modelling Specialist & Principal Analyst]{.cv-role}
+[2019 – 2021]{.cv-date}
+:::
+::: {.cv-org}
+BNSSG CCG, National Health Service (NHS), Bristol
+:::
+Developed analytical packages and user interfaces in R to model pathway capacity and patient flow:
 
--   Project: Developing a versatile tool for modelling pathway capacity in NHS organisations
+-   **PathSimR Package:** Developed the [`PathSimR`](projects.qmd#pathsimr) discrete event simulation (DES) package and Shiny application.
+-   **Operational Analysis:** Modeled patient pathways, telehealth implementations, and COVID-19 vaccination clinic queues using queueing theory and stochastic modelling.
+:::
 
--   Project Overview: The Health Foundation-funded project involved building an analytical tool and UI in R that could model several interconnected health services along a given patient pathway using techniques from queueing theory and operational research.
+::: {.cv-item}
+::: {.cv-header}
+[Research Assistant]{.cv-role}
+[Aug 2016 – Dec 2018]{.cv-date}
+:::
+::: {.cv-org}
+Museum für Naturkunde, Berlin, Germany
+:::
+Collaborated on DFG-funded research tracing niche evolution across African Savannah herbivores (Bovidae):
 
--   Tool Link: <https://github.com/nhs-bnssg-analytics/PathSimR>
-
-**Research Assistant: Museum fur Naturkunde, Berlin** *August 2016 - December 2018*
-
--   Project: Herbivore Niche Differentiation and the Intensification of Competition in African Savannahs
-
--   Project Overview: The DFG-funded project sought to trace the evolution of niche partitioning and competitive interaction across Bovidae (Antelope & their relatives) on the African Savannah from their origins through to the Recent.
-
-------------------------------------------------------------------------
+-   **Fieldwork:** Led morphometric data collection campaigns in Nairobi, Kenya and Addis Ababa, Ethiopia.
+:::
 
 # Education
 
-**PhD in Biology, Milner Centre for Evolution, University of Bath, UK** *2019 – 2023*
+::: {.cv-item}
+::: {.cv-header}
+[PhD in Biology]{.cv-role}
+[2019 – 2023]{.cv-date}
+:::
+::: {.cv-org}
+Milner Centre for Evolution, University of Bath, UK
+:::
+-   **Thesis:** "Phylogenetic Diversity, Morphological Disparity & Niche Adaptation in Seabirds"
+-   **Supervisors:** Prof. Matt Wills, Dr. Nick Priest (Bath) & Dr. Jane Younger (Tasmania).
+-   **Key Methods:** R programming, geometric morphometrics, phylogenetic comparative methods, and species delimitation.
+:::
 
--   Thesis: Phylogenetic Diversity, Morphological Disparity & Niche Adaptation in Seabirds
+::: {.cv-item}
+::: {.cv-header}
+[Master of Earth Sciences (MEarthSci)]{.cv-role}
+[2011 – 2015]{.cv-date}
+:::
+::: {.cv-org}
+Exeter College, University of Oxford, UK
+:::
+-   **Classification:** 2.i (First Class Masters Thesis on Pterosaur Macroevolution).
+-   **Fieldwork:** Pembrokeshire, Arran, Dorset, Assynt, Corsica, Spain, and Bermuda.
+:::
 
--   Supervisors: Professor Matt Wills & Dr Nick Priest (Milner Centre for Evolution, University of Bath) and Dr Jane Younger (University of Tasmania)
+# Training & Teaching Materials
 
--   Key Techniques: Advanced Analysis in R, Linear & Geometric Morphometrics, Phylogenetic Comparative Methods, Discrete Character Evolution, Species Delimitation Techniques.
+::: {.cv-item}
+::: {.cv-header}
+[PGLMMs for Biodiversity Modelling Workshop]{.cv-role}
+[StanCon 2024]{.cv-date}
+:::
+::: {.cv-org}
+Workshop Developer & Instructor
+:::
+Created and delivered training materials on using Stan and R to build Phylogenetic Generalised Linear Mixed Models (PGLMMs) for species trait distribution modelling.
+:::
 
-**Master of Earth Sciences, Exeter College, University of Oxford, UK** *2011 – 2015*
+::: {.cv-item}
+::: {.cv-header}
+[Maths for Life Sciences]{.cv-role}
+[Imperial College London (2025)]{.cv-date}
+:::
+::: {.cv-org}
+Course Instructor
+:::
+Taught foundational mathematical techniques, differential equations, and statistical modelling to first-year undergraduate Life Sciences students.
+:::
 
--   Degree & Classification: MEarthSci – 2.i
-
--   Masters Thesis: “The battle for the Mesozoic skies: Studying competition as a driver of macroevolution in pterosaurs” (Supervisor: Prof R Benson, First Class)
-
--   Fieldwork Locations: Pembrokeshire, Arran, Dorset, Assynt, Corsica, Almeria/Carboneras (SE Spain), Bermuda.
-
-------------------------------------------------------------------------
-
-# Teaching
-
--   Maths for Life Sciences (1st Year Course) - Imperial College London (2025)
--   PGLMMs for Biodiversity Modelling Workshop - StanCon (2024)
-
-------------------------------------------------------------------------
-
-# Leadership Roles
-
--   Health Modelling & Forecasting Workshop Organiser. Alan Turing Institute, London, Jan 2025
--   Forecast Contest Lead Designer. SPHERE-PPL. Online.
--   Capability Lead for Simulation & Analytics. Aerospace, Defence, Security & Technology Division, AtkinsRèalis
-
-------------------------------------------------------------------------
+::: {.cv-item}
+::: {.cv-header}
+[SPHERE-PPL Forecasting Contest Materials]{.cv-role}
+[Alan Turing Institute (24-25)]{.cv-date}
+:::
+::: {.cv-org}
+Lead Developer
+:::
+Developed notebooks, tutorials, and starter code for researchers entering probabilistic forecasting challenges.
+:::
 
 # Grants & Awards
 
--   Research Grant (£20,000 Consumable Grant) - Royal Society London (2021)
--   Visiting Research Scholarship (\$3900 Travel Grant) - Chicago Field Museum (2020)
--   Future Research Leaders Grant (£2509 Travel Grant) - University of Bath (2019)
--   Evolution Education Trust PhD Studentship (Stipend, Fees & Research Costs) - University of Bath (2019)
-
-------------------------------------------------------------------------
-
-# Conference Presentations
-
--   Janis C, Franklin G, Baird CN & **Tyler J**. The radiation of Miocene Anchitheres: the forgotten large browsing Horses. SVPCA; Online. Poster 2021
--   **Tyler J** & Younger J. Morphometric and genetic evidence for four species of gentoo penguin. Evolution; Online. Talk, 2021
--   **Tyler J** & Younger J. Hidden biodiversity in gentoo penguins. Biology & Biochemistry Research Symposium; University of Bath. Poster, 2020
--   **Tyler J** & Bibi F. Investigating niche evolution using skull morphology in modern antelope (Bovidae) communities. Evolution; Montpellier, France. Poster, 2018
--   **Tyler J** & Bibi F. Investigating the role of competition and biotic interaction on the evolution of African bovids: A geometric morphometric & phylogenetic approach. IPC; Paris, France. Talk, 2018
-
-------------------------------------------------------------------------
-
-# Invited Seminars
-
--   Institute for Marine & Antarctic Studies, University of Tasmania – *August 2022* - Diversity, Disparity & Dead-Ends? Macroevolutionary patterns in Waterbirds.
--   Bristol Naturalists’ Society – *March 2021* - Spot the difference! Understanding morphological variation in birds and the implications for cryptic species.
--   Milner Centre for Evolution – *March 2021* – Hidden biodiversity in Gentoo penguins and other avian morphometric mysteries.
-
-------------------------------------------------------------------------
-
-# Media Coverage
-
--   Hidden biodiversity in gentoos – [Naked Scientists Podcast Interview](https://www.thenakedscientists.com/articles/interviews/gentoo-penguins-three-hidden-species-discovered), [Ecology & Evolution Blog](https://ecologyandevolutionblog.wordpress.com/2020/11/06/hidden-biodiversity-in-gentoo-penguins/), [BBC News](https://www.bbc.co.uk/news/science-environment-54817124#:~:text=Scientists%20are%20calling%20for%20a,told%20apart%20by%20their%20DNA.), [Conversation Article](https://theconversation.com/how-we-discovered-three-new-species-of-penguin-in-the-southern-ocean-149325). Estimated reach: 531 million.
--   Albatross Bill Shape – [Conversation Article](https://theconversation.com/thick-ones-pointy-ones-how-albatross-beaks-evolved-to-match-their-prey-211461)
-- Penguin Research – Midnight Meets with Colin Murray (Radio 5 Live)
-
-------------------------------------------------------------------------
+-   **Research Grant** (£20,000 Consumable Grant) | Royal Society London *(2021)*
+-   **Visiting Research Scholarship** (\$3,900 Travel Grant) | Chicago Field Museum *(2020)*
+-   **Future Research Leaders Grant** (£2,509 Travel Grant) | University of Bath *(2019)*
+-   **Evolution Education Trust PhD Studentship** | University of Bath *(2019)*
 
 # Student Supervision
 
-- **BSc Biotechnology Project Co-Supervisor (PI: Dr. Will Pearse). Imperial, UK.**
+-   **BSc Biotechnology Co-Supervisor** | Imperial College London *(24/25)*
+    -   *Project:* Understanding and forecasting NHS A&E patient load (Student: Gabriela Lemos Vargas)
+-   **BA Biology Co-Supervisor** | University of Bath *(21/22)*
+    -   *Project:* Morphological Variation in Skeletal Elements (Students: Jack Hardy, Sam Jones, Harley Mitchell)
+    -   *Project:* Phylogeography & Cryptic Species in Malagasy Birds (Students: Georgina Russell, Louis Martin, Nefeli Karonis)
+-   **MSc Bioinformatics Co-Supervisor** | University of Bath *(21/22)*
+    -   *Project:* Global Patterns of Biodiversity and Diversification in Fungi (Students: Gabriel Crabb, Enea Jorgji)
+-   **MSci Palaeobiology Thesis Co-Supervisor** | University of Bristol *(20/21)*
+    -   *Project:* Locomotor evolution in Miocene horses (Student: Gwen Franklin)
 
-  - *Understanding and forecasting NHS A&E patient load.*
+# Professional Development & Workshops
 
-    - Students: Gabriela Lemos Vargas (24/25)
+-   **Statistical Rethinking:** Course on Bayesian Data Analysis & Causal Inference *(Online, 2023)*
+-   **SVPCA 3D Data Workshop:** Morphosource & FAIR principles *(University of Oxford, 2021)*
+-   **Public Engagement with Science Workshop:** *(The Royal Society, UK, 2020)*
+-   **Phylogenetics in Evolution and Ecology Course:** *(Natural History Museum, Berlin, 2018)*
 
-
-
-- **BA Biology Project Co-Supervisor (PI: Dr. Jane Younger). University of Bath, Bath, UK.**
-
-  - *Morphological Variation in Spheniscidae Skeletal Elements*
-
-    - Students: Jack Hardy (21/22), Sam Jones (21/22), Harley Mitchell (21/22)
-
-  - *Phylogeography & Cryptic Species in Malagasy Birds*
-
-    - Students: Georgina Russell (19/20), Louis Martin (20/21), Nefeli Karonis (20/21)
-
-- **MSc Bioinformatics Project Co-Supervisor (PI: Dr. Nick Priest). University of Bath, Bath, UK.**
-
-  - *Understanding Global Patterns of Biodiversity and Diversification in Fungi*
-
-    - Students: Gabriel Crabb (21/22), Enea Jorgji (21/22)
-
-- **MSci Palaeobiology Thesis Co-Supervisor (PI: Prof Christine Janis). University of Bristol, Bristol, UK.**
-
-  - *Locomotor evolution in horses: divergence between anchitheres and equines*
-
-    - Students: Gwen Franklin (20/21)
-
-------------------------------------------------------------------------
-
-# Engagement Activities & Widening Participation
-
--   Evolution Conference Undergraduate Mentor. Online. 2021
--   Global Science Show & Futures 2020. Online. 2020
--   Morphometrics & Macroevolution Journal Club. University of Bath, Bath, UK. 2019-2023
--   Gold Scholarship Programme Mentor. University of Bath, Bath, UK. 2019-2022
-
-------------------------------------------------------------------------
-
-# Workshops & Professional Development
-
--   Statistical Rethinking. Course on Bayesian Data Analysis and Causal Inference. Online 2023
--   SVPCA Workshop 1: 3D data, FAIR principles and Morphosource. University of Oxford, UK. 2021
--   Public Engagement with Science Workshop. Royal Society, UK. 2020
--   Phylogenetics in Evolution and Ecology Course. Natural History Museum, Berlin, Germany. 2018
+:::

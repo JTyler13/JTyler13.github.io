@@ -11,8 +11,12 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - papers.qmd
-      - CV.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: papers.qmd
+        text: Publications
+      - href: CV.qmd
+        text: CV & Experience
   page-footer:
     border: true
     left: Copyright 2026 - Josh Tyler

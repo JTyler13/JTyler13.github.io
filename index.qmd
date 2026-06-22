@@ -1,11 +1,12 @@
 ---
 title: "Dr Josh Tyler"
 image: images/joshtyler.jpg
+page-layout: article
 
 about:
   template: trestles
   image-shape: round
-  image-width: 25em
+  image-width: 40em
   links: # create buttons
     - icon: github
       text: GitHub
@@ -15,5 +16,10 @@ about:
       href: mailto:josh.tyler@bristol.ac.uk
 ---
 
-# Data Scientist & Research Software Engineer {style="color: #45B39D"}
-### Jean Golding Instistute @ University of Bristol {style="color: #1a7361ff"}
+# Data Scientist & Research Software Engineer
+
+### Jean Golding Institute, University of Bristol
+
+I am a Data Scientist and Research Software Engineer (RSE) at the Jean Golding Institute, University of Bristol. My work focuses on building open-source research software, statistical modelling, and providing data science support across academic disciplines.
+
+I have a background in evolutionary biology, operational research, and healthcare simulation, with a focus on developing packages and analytical pipelines in Python and R.
