@@ -1,15 +1,14 @@
 ---
 title: "Projects"
 page-layout: full
+toc: true
 ---
 
 A selection of research software packages, data science tools, and quantitative projects I have developed or contributed to.
 
-::: {.project-grid}
-
 <!-- digiqual -->
-::: {.project-card .featured #digiqual}
-::: {.project-image-container .center-img}
+::: {.project-item #digiqual}
+::: {.project-image-container}
 ![](images/hero_pod_surface.png){.project-image}
 :::
 ::: {.project-body}
@@ -20,7 +19,7 @@ A selection of research software packages, data science tools, and quantitative 
 [Product Design]{.tag}
 [Stakeholder Engagement]{.tag}
 :::
-### digiqual
+## digiqual
 
 A Python library developed and maintained for the UNDT group in the School of Electrical, Electronic and Mechanical Engineering at the University of Bristol. It provides a framework for Non-Destructive Evaluation (NDE) reliability assessment, implementing the Generalised $\hat{a}$-versus-$a$ method to calculate probability of detection (PoD) curves.
 
@@ -38,7 +37,7 @@ A Python library developed and maintained for the UNDT group in the School of El
 :::
 
 <!-- PPADEM -->
-::: {.project-card #ppadem}
+::: {.project-item #ppadem}
 ::: {.project-image-container}
 ![](images/PPADEM.png){.project-image}
 :::
@@ -50,9 +49,9 @@ A Python library developed and maintained for the UNDT group in the School of El
 [Project Development]{.tag}
 [Political Science]{.tag}
 :::
-### PPADEM Project
+## PPADEM
 
-Database and data science support provided to the Political Parties in Africa Database and Electoral Management (PPADEM) project at the School of Sociology, Politics and International Studies, University of Bristol, developing reproducible statistical workflows.
+Data Science and Management support provided to the Political Parties in Africa DEMocracy (PPADEM) project at the School of Sociology, Politics and International Studies, University of Bristol, developing reproducible statistical workflows around digital political communications.
 
 ::: {.project-links}
 [Project Website](https://politicalpartiesafrica.com/ppadem/){.project-link-btn .primary}
@@ -60,9 +59,8 @@ Database and data science support provided to the Political Parties in Africa Da
 :::
 :::
 
-
 <!-- PathSimR -->
-::: {.project-card #pathsimr}
+::: {.project-item #pathsimr}
 ::: {.project-image-container}
 ![](images/DES.png){.project-image}
 :::
@@ -72,7 +70,7 @@ Database and data science support provided to the Political Parties in Africa Da
 [RSE]{.tag}
 [Simulation]{.tag}
 :::
-### PathSimR
+## PathSimR
 
 An R package and Shiny UI developed for modelling patient flow and pathway capacity in NHS organisations. It uses discrete event simulation (DES) and queueing theory to run "what-if" analyses, allowing managers to estimate waiting times and identify service bottlenecks.
 
@@ -84,7 +82,7 @@ An R package and Shiny UI developed for modelling patient flow and pathway capac
 :::
 
 <!-- SPHERE-PPL -->
-::: {.project-card #sphere-ppl}
+::: {.project-item #sphere-ppl}
 ::: {.project-image-container}
 ![](images/Logo_NoText.png){.project-image}
 :::
@@ -94,7 +92,7 @@ An R package and Shiny UI developed for modelling patient flow and pathway capac
 [Bayesian Stats]{.tag}
 [Ecology]{.tag}
 :::
-### SPHERE-PPL Contests
+## SPHERE-PPL Contests
 
 Open-source forecasting contests, scoring tools, and training materials developed for the SPHERE-PPL project at the Alan Turing Institute. The work supported Bayesian Hierarchical and Phylogenetic Generalised Linear Mixed Models (PGLMMs) to predict biodiversity hotspots.
 
@@ -105,9 +103,34 @@ Open-source forecasting contests, scoring tools, and training materials develope
 :::
 
 
+<!-- Diving -->
+::: {.project-item #diving}
+::: {.project-image-container}
+![](images/2-state.png){.project-image}
+:::
+::: {.project-body}
+::: {.project-tags}
+[R]{.tag}
+[Evolutionary Biology]{.tag}
+[Simulation]{.tag}
+[Modelling]{.tag}
+[Statistics]{.tag}
+:::
+## Evolution of Diving in Waterbirds
+
+Macroevolutionary analysis investigating the repeated convergence of diving within Waterbirds. Uses phylogenetic comparative methods in R to model rates and directionality of evolution.
+
+::: {.project-links}
+[Proc B Publication](https://doi.org/10.1098/rspb.2022.2056){.project-link-btn .primary}
+:::
+:::
+:::
+
+
+
 
 <!-- Albatross -->
-::: {.project-card #albatross}
+::: {.project-item #albatross}
 ::: {.project-image-container}
 ![](images/Albatross.png){.project-image}
 :::
@@ -117,7 +140,7 @@ Open-source forecasting contests, scoring tools, and training materials develope
 [Evolutionary Biology]{.tag}
 [Morphometrics]{.tag}
 :::
-### Albatross Bill Shape
+## Albatross Bill Shape
 
 Quantitative morphometric analysis investigating the shape variation in the compound bills of albatrosses. Uses phylogenetic comparative methods in R to study bill shape adaptation relative to diet and feeding strategy.
 
@@ -128,7 +151,7 @@ Quantitative morphometric analysis investigating the shape variation in the comp
 :::
 
 <!-- Penguins -->
-::: {.project-card #penguins}
+::: {.project-item #penguins}
 ::: {.project-image-container}
 ![](images/Penguins.png){.project-image}
 :::
@@ -138,7 +161,7 @@ Quantitative morphometric analysis investigating the shape variation in the comp
 [Genetics]{.tag}
 [Species Delimitation]{.tag}
 :::
-### Gentoo Penguin Species
+## Gentoo Penguin Species
 
 Integrative species delimitation using genetic and morphometric datasets in R. This research demonstrated that the Gentoo Penguin is comprised of four distinct, morphologically and genetically isolated species.
 
@@ -147,6 +170,4 @@ Integrative species delimitation using genetic and morphometric datasets in R. T
 [Conversation Article](https://theconversation.com/how-we-discovered-three-new-species-of-penguin-in-the-southern-ocean-149325){.project-link-btn}
 :::
 :::
-:::
-
 :::

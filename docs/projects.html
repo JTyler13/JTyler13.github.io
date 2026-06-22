@@ -153,7 +153,9 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
 
@@ -177,18 +179,17 @@ window.Quarto = {
 
 
 <p>A selection of research software packages, data science tools, and quantitative projects I have developed or contributed to.</p>
-<div class="project-grid">
 <!-- digiqual -->
-<div id="digiqual" class="project-card featured">
-<div class="project-image-container center-img">
+<div id="digiqual" class="project-item">
+<div class="project-image-container">
 <p><img src="images/hero_pod_surface.png" class="project-image img-fluid"></p>
 </div>
 <div class="project-body">
 <div class="project-tags">
 <p><span class="tag">Python</span> <span class="tag">RSE</span> <span class="tag">Statistics</span> <span class="tag">Product Design</span> <span class="tag">Stakeholder Engagement</span></p>
 </div>
-<section id="digiqual" class="level3">
-<h3 class="anchored" data-anchor-id="digiqual">digiqual</h3>
+<section id="digiqual" class="level2">
+<h2 class="anchored" data-anchor-id="digiqual">digiqual</h2>
 <p>A Python library developed and maintained for the UNDT group in the School of Electrical, Electronic and Mechanical Engineering at the University of Bristol. It provides a framework for Non-Destructive Evaluation (NDE) reliability assessment, implementing the Generalised <span class="math inline">\(\hat{a}\)</span>-versus-<span class="math inline">\(a\)</span> method to calculate probability of detection (PoD) curves.</p>
 <p><strong>Key features:</strong></p>
 <ul>
@@ -203,7 +204,7 @@ window.Quarto = {
 </div>
 </div>
 <!-- PPADEM -->
-<div id="ppadem" class="project-card">
+<div id="ppadem" class="project-item">
 <div class="project-image-container">
 <p><img src="images/PPADEM.png" class="project-image img-fluid"></p>
 </div>
@@ -211,9 +212,9 @@ window.Quarto = {
 <div class="project-tags">
 <p><span class="tag">Data Team Recruitment &amp; Management</span> <span class="tag">Data Collection</span> <span class="tag">Modelling &amp; Analysis</span> <span class="tag">Project Development</span> <span class="tag">Political Science</span></p>
 </div>
-<section id="ppadem-project" class="level3">
-<h3 class="anchored" data-anchor-id="ppadem-project">PPADEM Project</h3>
-<p>Database and data science support provided to the Political Parties in Africa Database and Electoral Management (PPADEM) project at the School of Sociology, Politics and International Studies, University of Bristol, developing reproducible statistical workflows.</p>
+<section id="ppadem" class="level2">
+<h2 class="anchored" data-anchor-id="ppadem">PPADEM</h2>
+<p>Data Science and Management support provided to the Political Parties in Africa DEMocracy (PPADEM) project at the School of Sociology, Politics and International Studies, University of Bristol, developing reproducible statistical workflows around digital political communications.</p>
 <div class="project-links">
 <p><a href="https://politicalpartiesafrica.com/ppadem/" class="project-link-btn primary">Project Website</a></p>
 </div>
@@ -221,7 +222,7 @@ window.Quarto = {
 </div>
 </div>
 <!-- PathSimR -->
-<div id="pathsimr" class="project-card">
+<div id="pathsimr" class="project-item">
 <div class="project-image-container">
 <p><img src="images/DES.png" class="project-image img-fluid"></p>
 </div>
@@ -229,8 +230,8 @@ window.Quarto = {
 <div class="project-tags">
 <p><span class="tag">R / Shiny</span> <span class="tag">RSE</span> <span class="tag">Simulation</span></p>
 </div>
-<section id="pathsimr" class="level3">
-<h3 class="anchored" data-anchor-id="pathsimr">PathSimR</h3>
+<section id="pathsimr" class="level2">
+<h2 class="anchored" data-anchor-id="pathsimr">PathSimR</h2>
 <p>An R package and Shiny UI developed for modelling patient flow and pathway capacity in NHS organisations. It uses discrete event simulation (DES) and queueing theory to run “what-if” analyses, allowing managers to estimate waiting times and identify service bottlenecks.</p>
 <div class="project-links">
 <p><a href="https://github.com/nhs-bnssg-analytics/PathSimR" class="project-link-btn primary">GitHub Repository</a> <a href="https://doi.org/10.1080/17477778.2022.2081521" class="project-link-btn">Journal Article</a></p>
@@ -239,7 +240,7 @@ window.Quarto = {
 </div>
 </div>
 <!-- SPHERE-PPL -->
-<div id="sphere-ppl" class="project-card">
+<div id="sphere-ppl" class="project-item">
 <div class="project-image-container">
 <p><img src="images/Logo_NoText.png" class="project-image img-fluid"></p>
 </div>
@@ -247,8 +248,8 @@ window.Quarto = {
 <div class="project-tags">
 <p><span class="tag">R / Stan</span> <span class="tag">Bayesian Stats</span> <span class="tag">Ecology</span></p>
 </div>
-<section id="sphere-ppl-contests" class="level3">
-<h3 class="anchored" data-anchor-id="sphere-ppl-contests">SPHERE-PPL Contests</h3>
+<section id="sphere-ppl-contests" class="level2">
+<h2 class="anchored" data-anchor-id="sphere-ppl-contests">SPHERE-PPL Contests</h2>
 <p>Open-source forecasting contests, scoring tools, and training materials developed for the SPHERE-PPL project at the Alan Turing Institute. The work supported Bayesian Hierarchical and Phylogenetic Generalised Linear Mixed Models (PGLMMs) to predict biodiversity hotspots.</p>
 <div class="project-links">
 <p><a href="https://sphere-ppl.org" class="project-link-btn primary">Project Website</a></p>
@@ -256,8 +257,26 @@ window.Quarto = {
 </section>
 </div>
 </div>
+<!-- Diving -->
+<div id="diving" class="project-item">
+<div class="project-image-container">
+<p><img src="images/2-state.png" class="project-image img-fluid"></p>
+</div>
+<div class="project-body">
+<div class="project-tags">
+<p><span class="tag">R</span> <span class="tag">Evolutionary Biology</span> <span class="tag">Simulation</span> <span class="tag">Modelling</span> <span class="tag">Statistics</span></p>
+</div>
+<section id="evolution-of-diving-in-waterbirds" class="level2">
+<h2 class="anchored" data-anchor-id="evolution-of-diving-in-waterbirds">Evolution of Diving in Waterbirds</h2>
+<p>Macroevolutionary analysis investigating the repeated convergence of diving within Waterbirds. Uses phylogenetic comparative methods in R to model rates and directionality of evolution.</p>
+<div class="project-links">
+<p><a href="https://doi.org/10.1098/rspb.2022.2056" class="project-link-btn primary">Proc B Publication</a></p>
+</div>
+</section>
+</div>
+</div>
 <!-- Albatross -->
-<div id="albatross" class="project-card">
+<div id="albatross" class="project-item">
 <div class="project-image-container">
 <p><img src="images/Albatross.png" class="project-image img-fluid"></p>
 </div>
@@ -265,8 +284,8 @@ window.Quarto = {
 <div class="project-tags">
 <p><span class="tag">R</span> <span class="tag">Evolutionary Biology</span> <span class="tag">Morphometrics</span></p>
 </div>
-<section id="albatross-bill-shape" class="level3">
-<h3 class="anchored" data-anchor-id="albatross-bill-shape">Albatross Bill Shape</h3>
+<section id="albatross-bill-shape" class="level2">
+<h2 class="anchored" data-anchor-id="albatross-bill-shape">Albatross Bill Shape</h2>
 <p>Quantitative morphometric analysis investigating the shape variation in the compound bills of albatrosses. Uses phylogenetic comparative methods in R to study bill shape adaptation relative to diet and feeding strategy.</p>
 <div class="project-links">
 <p><a href="https://doi.org/10.1098/rsos.230751" class="project-link-btn primary">RSOS Publication</a></p>
@@ -275,7 +294,7 @@ window.Quarto = {
 </div>
 </div>
 <!-- Penguins -->
-<div id="penguins" class="project-card">
+<div id="penguins" class="project-item">
 <div class="project-image-container">
 <p><img src="images/Penguins.png" class="project-image img-fluid"></p>
 </div>
@@ -283,14 +302,13 @@ window.Quarto = {
 <div class="project-tags">
 <p><span class="tag">R</span> <span class="tag">Genetics</span> <span class="tag">Species Delimitation</span></p>
 </div>
-<section id="gentoo-penguin-species" class="level3">
-<h3 class="anchored" data-anchor-id="gentoo-penguin-species">Gentoo Penguin Species</h3>
+<section id="gentoo-penguin-species" class="level2">
+<h2 class="anchored" data-anchor-id="gentoo-penguin-species">Gentoo Penguin Species</h2>
 <p>Integrative species delimitation using genetic and morphometric datasets in R. This research demonstrated that the Gentoo Penguin is comprised of four distinct, morphologically and genetically isolated species.</p>
 <div class="project-links">
 <p><a href="https://doi.org/10.1002/ece3.6973" class="project-link-btn primary">Ecol Evol Publication</a> <a href="https://theconversation.com/how-we-discovered-three-new-species-of-penguin-in-the-southern-ocean-149325" class="project-link-btn">Conversation Article</a></p>
 </div>
 </section>
-</div>
 </div>
 </div>
 

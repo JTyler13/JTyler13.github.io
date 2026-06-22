@@ -3,9 +3,7 @@ title: "CV & Experience"
 toc: true
 ---
 
-::: {.cv-section}
-
-# Research & Professional Appointments
+# Research & Professional Appointments {.cv-section-title}
 
 ::: {.cv-item}
 ::: {.cv-header}
@@ -16,7 +14,6 @@ toc: true
 Jean Golding Institute, University of Bristol
 :::
 Providing data science and research software engineering support on collaborative university projects:
-
 -   **Package Development:** Developed and maintain the [`digiqual`](projects.qmd#digiqual) Python package for Non-Destructive Evaluation reliability assessment in EEME.
 -   **Statistical Analysis:** Provide statistics and model-building support to the Diabetes and Metabolism team at the Bristol Medical School.
 -   **Data Science Support:** Work on data pipelines and analysis for the [PPADEM Project](https://politicalpartiesafrica.com/ppadem/) in the School of Sociology, Politics and International Studies.
@@ -31,7 +28,6 @@ Providing data science and research software engineering support on collaborativ
 The Alan Turing Institute, London
 :::
 Research on applied statistical methods in ecology and evolution for the **SPHERE-PPL** project:
-
 -   **Community Software:** Developed and managed open-source forecasting contests, back-end scoring tools, and developer starter templates.
 -   **Statistical Modelling:** Built Bayesian Hierarchical models and refined Phylogenetic Generalised Linear Mixed Models (PGLMMs) to evaluate biodiversity hotspots and trait-environment filtering.
 -   **Event Organization:** Co-organized the *Health Modelling & Forecasting Workshop* (Jan 2025) at the British Library.
@@ -46,7 +42,6 @@ Research on applied statistical methods in ecology and evolution for the **SPHER
 AtkinsRèalis, Bristol
 :::
 Delivered data-driven decision-making and operational research solutions:
-
 -   **Software Capability Lead:** Managed the development of custom analytical tools in R, line-managing several teams of analysts.
 -   **Operational Research:** Served as Simulation Workstream Lead for Heathrow Security and Manchester Airport Group security programs.
 :::
@@ -60,7 +55,6 @@ Delivered data-driven decision-making and operational research solutions:
 BNSSG CCG, National Health Service (NHS), Bristol
 :::
 Developed analytical packages and user interfaces in R to model pathway capacity and patient flow:
-
 -   **PathSimR Package:** Developed the [`PathSimR`](projects.qmd#pathsimr) discrete event simulation (DES) package and Shiny application.
 -   **Operational Analysis:** Modeled patient pathways, telehealth implementations, and COVID-19 vaccination clinic queues using queueing theory and stochastic modelling.
 :::
@@ -74,11 +68,10 @@ Developed analytical packages and user interfaces in R to model pathway capacity
 Museum für Naturkunde, Berlin, Germany
 :::
 Collaborated on DFG-funded research tracing niche evolution across African Savannah herbivores (Bovidae):
-
 -   **Fieldwork:** Led morphometric data collection campaigns in Nairobi, Kenya and Addis Ababa, Ethiopia.
 :::
 
-# Education
+# Education {.cv-section-title}
 
 ::: {.cv-item}
 ::: {.cv-header}
@@ -105,7 +98,7 @@ Exeter College, University of Oxford, UK
 -   **Fieldwork:** Pembrokeshire, Arran, Dorset, Assynt, Corsica, Spain, and Bermuda.
 :::
 
-# Training & Teaching Materials
+# Training & Teaching Materials {.cv-section-title}
 
 ::: {.cv-item}
 ::: {.cv-header}
@@ -140,14 +133,14 @@ Lead Developer
 Developed notebooks, tutorials, and starter code for researchers entering probabilistic forecasting challenges.
 :::
 
-# Grants & Awards
+# Grants & Awards {.cv-section-title}
 
 -   **Research Grant** (£20,000 Consumable Grant) | Royal Society London *(2021)*
 -   **Visiting Research Scholarship** (\$3,900 Travel Grant) | Chicago Field Museum *(2020)*
 -   **Future Research Leaders Grant** (£2,509 Travel Grant) | University of Bath *(2019)*
 -   **Evolution Education Trust PhD Studentship** | University of Bath *(2019)*
 
-# Student Supervision
+# Student Supervision {.cv-section-title}
 
 -   **BSc Biotechnology Co-Supervisor** | Imperial College London *(24/25)*
     -   *Project:* Understanding and forecasting NHS A&E patient load (Student: Gabriela Lemos Vargas)
@@ -159,11 +152,9 @@ Developed notebooks, tutorials, and starter code for researchers entering probab
 -   **MSci Palaeobiology Thesis Co-Supervisor** | University of Bristol *(20/21)*
     -   *Project:* Locomotor evolution in Miocene horses (Student: Gwen Franklin)
 
-# Professional Development & Workshops
+# Professional Development & Workshops {.cv-section-title}
 
 -   **Statistical Rethinking:** Course on Bayesian Data Analysis & Causal Inference *(Online, 2023)*
 -   **SVPCA 3D Data Workshop:** Morphosource & FAIR principles *(University of Oxford, 2021)*
 -   **Public Engagement with Science Workshop:** *(The Royal Society, UK, 2020)*
 -   **Phylogenetics in Evolution and Ecology Course:** *(Natural History Museum, Berlin, 2018)*
-
-:::
