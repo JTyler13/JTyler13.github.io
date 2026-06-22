@@ -8,6 +8,8 @@ A selection of research software packages, data science tools, and quantitative 
 
 ## Active Projects
 
+<br>
+
 <!-- digiqual -->
 ::: {.project-item #digiqual}
 ::: {.project-image-container}
@@ -63,6 +65,8 @@ Data Science and Management support provided to the Political Parties in Africa 
 
 
 ## Past Projects
+
+<br>
 
 <!-- PathSimR -->
 ::: {.project-item #pathsimr}

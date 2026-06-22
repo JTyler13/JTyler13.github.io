@@ -1,50 +1,33 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght=300;400;500;600;700&display=swap');
 
-/* Map your custom theme variables directly to Bootstrap tokens */
+/* Let Minty handle everything, except the specific dark green accents you want */
 :root {
-  --bg-main: #f8fafc;            /* Grey page bg */
-  --bg-card: #f8fafc;            /* Grey card backgrounds */
-  --bg-tint: #c8fcee;            /* Soft mint/green background tint */
-  --text-main: #334155;          /* Slate grey for high readability */
-  --text-dark: #0f172a;          /* Deep dark slate for headers */
-  --accent-color: #0f5143;       /* Dark forest green primary buttons/accents */
-  --accent-hover: #0a3a30;       /* Deeper dark green for hover states */
-  --link-color: #0f5143;         /* Dark forest green link */
-  --link-hover: #0a3a30;         /* Deeper dark green on hover */
-  --border-color: #e2e8f0;       /* Light border line grey */
-  --border-hover: #cbd5e1;       /* Slightly darker border on hover */
+  --accent-color: #0c4337;       /* Dark forest green primary accents */
+  --accent-hover: #06241e;       /* Deeper green for hover states */
 
-  /* Quarto / Bootstrap native overrides */
-  --bs-body-bg: var(--bg-main);
-  --bs-body-color: var(--text-main);
-  --bs-link-color: var(--link-color);
-  --bs-link-hover-color: var(--link-hover);
+  /* Override Quarto/Bootstrap primary color variables natively */
+  --bs-primary: var(--accent-color);
+  --bs-link-color: var(--accent-color);
+  --bs-link-hover-color: var(--accent-hover);
 }
 
-/* Global Styles */
+
+
+/* Global Font Override */
 html, body {
   font-family: 'Inter', sans-serif;
-  line-height: 1.6;
   -webkit-font-smoothing: antialiased;
 }
 
-/* Enforce background colors across standard Quarto structural containers */
-body,
-body.nav-fixed,
-body.nav-sidebar,
-#quarto-content,
-.quarto-container,
-main.content,
-.page-columns,
-#quarto-margin-sidebar,
-.quarto-secondary-nav {
-  background-color: var(--bg-main) !important;
-}
-
+/* Typography & Links */
 h1, h2, h3, h4, h5, h6, .navbar-brand {
-  color: var(--text-dark);
   font-weight: 600;
   letter-spacing: -0.01em;
+}
+
+/* Color all headings across the site dark forest green */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--accent-color) !important;
 }
 
 h1 {
@@ -52,12 +35,7 @@ h1 {
 }
 
 a {
-  text-decoration: none;
   transition: color 0.15s ease-in-out;
-}
-
-a:hover {
-  text-decoration: underline;
 }
 
 .center-img {
@@ -66,17 +44,14 @@ a:hover {
   align-items: center;
 }
 
-/* Navbar Customization (Flat & Minimal) */
+/* Navbar Tuning (Inherits Minty's light navbar background natively) */
 .navbar {
-  background-color: #ffffff !important;
-  border-bottom: 1px solid var(--border-color);
   padding: 0.8rem 1.5rem;
 }
 
 .navbar-brand {
   font-size: 1.15rem;
   font-weight: 600;
-  color: var(--text-dark) !important;
 }
 
 .navbar-brand img {
@@ -85,15 +60,9 @@ a:hover {
 
 .nav-link {
   font-weight: 500;
-  color: var(--text-main) !important;
   padding: 0.4rem 0.8rem !important;
   border-radius: 4px;
   transition: all 0.15s ease;
-}
-
-.nav-link:hover, .nav-link.active {
-  color: var(--text-dark) !important;
-  background-color: var(--bg-tint);
 }
 
 /* Main Content Layout */
@@ -103,6 +72,7 @@ a:hover {
   margin: 0 auto;
 }
 
+/* About / Home Page Customization (Trestles Template) */
 /* About / Home Page Customization (Trestles Template) */
 .quarto-about-trestles {
   border: none !important;
@@ -119,17 +89,18 @@ a:hover {
   }
 }
 
+/* Stripped down profile container to lose the box outline */
 .about-entity {
-  background: var(--bg-card);
-  padding: 2rem;
-  border-radius: 8px;
-  border: 1px solid var(--border-color);
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 1rem 0;
   text-align: center;
   height: fit-content;
 }
 
 .about-entity img {
-  border: 1px solid var(--border-color);
+  border: 1px solid #e9ecef;
   max-width: 300px !important;
   height: 300px !important;
   object-fit: cover;
@@ -139,7 +110,6 @@ a:hover {
   font-size: 1.5rem;
   font-weight: 600;
   margin-top: 1rem;
-  color: var(--text-dark);
 }
 
 .about-links {
@@ -159,61 +129,61 @@ a:hover {
   font-weight: 500;
   font-size: 0.9rem;
   transition: all 0.15s ease !important;
-  border: 1px solid var(--border-color) !important;
-  background-color: var(--bg-card) !important;
-  color: var(--text-main) !important;
+  border: 1px solid #dee2e6 !important;
+  background-color: #ffffff !important;
+  color: #495057 !important;
 }
 
 .about-link:hover {
-  background-color: var(--bg-tint) !important;
-  color: var(--text-dark) !important;
-  border-color: var(--border-hover) !important;
+  background-color: #f8f9fa !important;
+  border-color: #ced4da !important;
   text-decoration: none !important;
 }
 
 /* Custom List Layout (Horizontal Items) */
 .project-item {
-  background: var(--bg-card);
-  border-radius: 8px;
-  border: 1px solid var(--border-color);
+  background: transparent !important;
+  border: none !important;
   overflow: hidden;
   display: grid;
   grid-template-columns: 280px 1fr;
-  transition: border-color 0.15s ease;
-  margin-bottom: 2rem;
+  gap: 2rem;
+  margin-bottom: 4rem; /* Adds generous spacing between individual projects */
+  padding-bottom: 3rem;
+  border-bottom: 1px solid #e9ecef !important; /* Subtle dividing line between separate entries */
 }
 
 .project-item:last-child {
   margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none !important;
 }
 
 @media (max-width: 768px) {
   .project-item {
     grid-template-columns: 1fr;
+    gap: 1.5rem;
+    margin-bottom: 3rem;
   }
 }
 
-.project-item:hover {
-  border-color: var(--border-hover);
-}
-
+/* Floating Image Container without borders */
 .project-image-container {
   overflow: hidden;
-  background: white;
+  background: transparent !important;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 1rem;
-  border-right: 1px solid var(--border-color);
+  padding: 0;
+  border: none !important;
   min-height: 200px;
 }
 
 @media (max-width: 768px) {
   .project-image-container {
-    border-right: none;
-    border-bottom: 1px solid var(--border-color);
     min-height: 180px;
     height: 180px;
+    justify-content: start; /* Aligns left on mobile screens */
   }
 }
 
@@ -223,105 +193,109 @@ a:hover {
   width: auto;
   height: auto;
   object-fit: contain;
+  border-radius: 6px; /* Smooths out project thumbnail corners slightly */
 }
 
 .project-body {
-  padding: 1.5rem;
+  padding: 0; /* Clear out padding restrictions since the outer card is gone */
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: start;
 }
 
+.project-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  margin-top: 0;
+  order: 1; /* Forces title to the absolute top */
+}
+
+.project-description {
+  font-size: 0.95rem;
+  margin-bottom: 1.5rem; /* Slightly more space before the tags */
+  order: 2; /* Forces description right below the title */
+}
+
+/* Repositioned Tags Section (Forced down below the text via Flex Order) */
 .project-tags {
   display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
-  margin-bottom: 0.6rem;
-}
-
-.tag {
-  background: var(--bg-tint);
-  color: var(--text-main);
-  font-size: 0.7rem;
-  font-weight: 500;
-  padding: 0.2rem 0.5rem;
-  border-radius: 3px;
-  text-transform: uppercase;
-  letter-spacing: 0.02em;
-}
-
-.project-title {
-  font-size: 1.25rem;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-  color: var(--text-dark);
-}
-
-.project-description {
-  font-size: 0.9rem;
-  color: var(--text-main);
-  margin-bottom: 1.25rem;
+  margin-top: 0;
+  margin-bottom: 1.25rem; /* Marginally pads the gap above the action buttons */
+  order: 3; /* Forces the tag group below the description text */
 }
 
 .project-links {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
-  border-top: 1px solid var(--border-color);
-  padding-top: 0.75rem;
+  border-top: none !important;
+  padding-top: 0;
+  order: 4; /* Keeps buttons sitting at the absolute bottom */
+}
+
+.tag {
+  background: #e8f5f1;
+  color: var(--accent-color);
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  white-space: nowrap; /* Prevents text from splitting over a line */
 }
 
 .project-link-btn {
   display: inline-flex;
   align-items: center;
   gap: 0.3rem;
-  padding: 0.35rem 0.7rem;
+  padding: 0.4rem 0.8rem;
   border-radius: 4px;
   font-size: 0.8rem;
   font-weight: 500;
-  border: 1px solid var(--border-color);
-  background-color: var(--bg-card);
-  color: var(--text-main);
+  border: 1px solid #dee2e6;
+  background-color: #ffffff;
+  color: #495057;
   transition: all 0.15s ease;
 }
 
 .project-link-btn:hover {
-  background-color: var(--bg-tint);
-  color: var(--text-dark);
-  border-color: var(--border-hover);
+  background-color: #f8f9fa;
+  border-color: #ced4da;
   text-decoration: none;
 }
 
 .project-link-btn.primary {
   background-color: var(--accent-color);
-  color: white;
+  color: #ffffff;
   border-color: var(--accent-color);
 }
 
 .project-link-btn.primary:hover {
   background-color: var(--accent-hover);
-  color: white;
+  color: #ffffff;
   border-color: var(--accent-hover);
 }
 
 /* Callouts & Footers */
 .callout {
   border-left: 3px solid var(--accent-color) !important;
-  background-color: var(--bg-tint) !important;
   border-radius: 3px;
 }
 
 .page-footer {
-  border-top: 1px solid var(--border-color);
+  border-top: 1px solid #e9ecef;
   padding: 1.25rem 0;
   margin-top: 3.5rem;
   font-size: 0.8rem;
-  color: #64748b;
 }
 
 /* CV Section Timeline styling */
 h1.cv-section-title {
-  border-bottom: 1px solid var(--border-color);
+  border-bottom: 1px solid #e9ecef;
   padding-bottom: 0.25rem;
   margin-top: 1.75rem;
   margin-bottom: 0.75rem;
@@ -331,7 +305,7 @@ h1.cv-section-title {
 .cv-item {
   margin-bottom: 1.25rem;
   padding-bottom: 1.25rem;
-  border-bottom: 1px solid var(--border-color);
+  border-bottom: 1px solid #e9ecef;
 }
 
 .cv-item:last-child {
@@ -348,56 +322,19 @@ h1.cv-section-title {
 .cv-role {
   font-weight: 600;
   font-size: 1rem;
-  color: var(--text-dark);
 }
 
 .cv-date {
   font-size: 0.85rem;
-  color: var(--text-main);
   font-weight: 500;
 }
 
 .cv-org {
   font-weight: 500;
   font-size: 0.9rem;
-  color: var(--text-main);
   margin-bottom: 0.4rem;
 }
 
 ol.publications-list li {
   margin-bottom: 0.75rem;
-}
-
-
-/* Mobile Navbar / Hamburger Fixes */
-@media (max-width: 991.98px) {
-  /* 1. Force the mobile menu drawer to be pure white */
-  .navbar-collapse {
-    background-color: #ffffff !important;
-    padding: 1rem 0;
-  }
-
-  /* 2. Style links inside the mobile vertical list */
-  .navbar-collapse .nav-link {
-    color: var(--text-main) !important;
-    padding: 0.6rem 1rem !important;
-    border-radius: 4px;
-  }
-
-  /* 3. Style active or hovered links inside mobile view */
-  .navbar-collapse .nav-link:hover,
-  .navbar-collapse .nav-link.active {
-    color: var(--text-dark) !important;
-    background-color: var(--bg-tint) !important;
-  }
-}
-
-/* 4. Fix the invisible Hamburger Toggler Icon on light backgrounds */
-.navbar-toggler {
-  border-color: var(--border-color) !important;
-}
-
-.navbar-toggler-icon {
-  /* Swaps the default bootstrap white SVG icon to a dark slate hue (#0f172a) */
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%230f172a' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
 }
