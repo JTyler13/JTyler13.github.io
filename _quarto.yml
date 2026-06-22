@@ -25,8 +25,7 @@ website:
 
 format:
   html:
-    theme:
-      light: minty
+    theme: minty
     css: styles.css
     toc: false
     page-layout: full
